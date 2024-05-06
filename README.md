@@ -1,0 +1,1 @@
+Esta es una API que estoy construyendo para usarla en un próximo proyecto, esta desarrollada con Node.js y Express además estoy usando arquitectura MVC para su construcción, estará  enlazada a una BD en despliegue.
