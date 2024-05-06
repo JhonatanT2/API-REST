@@ -1,0 +1,44 @@
+### Recuperar preguntas
+GET http://localhost:1234/preguntas
+
+### Recuperar una pregunta por id
+GET http://localhost:1234/preguntas/1
+
+### Recuperar preguntas por tema
+GET http://localhost:1234/preguntas?tema=normas+de+circulación
+
+### Crear una Pregunta
+POST http://localhost:1234/preguntas
+Content-Type: application/json
+
+{
+    "tema": "Señales de tráfico",
+    "enunciado": "Que señal indica seda el paso",
+    "respuestas": [
+        {
+        "id": "a",
+        "texto": "Señal circular con una flecha hacia la derecha."
+        },
+        {
+        "id": "b",
+        "texto": "Señal hexagonal roja con la palabra 'Pare'."
+        },
+        {
+        "id": "c",
+        "texto": "Señal triangular con una figura humana cruzando la calle."
+        }
+    ],
+    "respuesta_correcta": "c"
+}
+
+### Actualizar una pregunta
+PATCH http://localhost:1234/preguntas/1
+Content-Type:  application/json
+
+{
+    "respuesta_correcta": "c"
+}
+
+### Borrar pregunta
+
+DELETE http://localhost:1234/preguntas/3

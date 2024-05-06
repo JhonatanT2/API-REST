@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "tema": "Señales de tráfico",
+        "enunciado": "¿Qué señal indica un cruce de peatones?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Señal triangular con una figura humana cruzando la calle."
+            },
+            {
+                "id": "b",
+                "texto": "Señal circular con una figura humana caminando."
+            },
+            {
+                "id": "c",
+                "texto": "Señal rectangular con una figura humana en movimiento."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "id": "2",
+        "tema": "Normas de circulación",
+        "enunciado": "¿Cuál es la velocidad máxima permitida en una vía urbana?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "50 km/h."
+            },
+            {
+                "id": "b",
+                "texto": "60 km/h."
+            },
+            {
+                "id": "c",
+                "texto": "70 km/h."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "id": "3",
+        "tema": "Normas de circulación",
+        "enunciado": "¿Cuál es la velocidad máxima permitida en una autopista?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "60 km/h."
+            },
+            {
+                "id": "b",
+                "texto": "80 km/h."
+            },
+            {
+                "id": "c",
+                "texto": "120 km/h."
+            }
+        ],
+        "respuesta_correcta": "a"
+    }
+]
