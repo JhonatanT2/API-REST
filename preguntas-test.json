@@ -1,0 +1,555 @@
+[
+    {
+        "enunciado": "¿En su turismo, que tiene 5 plazas autorizadas, incluido el conductor, ¿puede transportar como pasajeros a cinco adultos?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": " No, porque está prohibido."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, siempre que no estorben o resten visibilidad al conductor."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, siempre que entre pasajeros y equipaje no se sobrepase el peso máximo autorizado para el vehículo."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado": "¿El panel de forma rectangular de color amarillo y con reborde rojo que lleva el vehículo de la fotografía en su parte posterior más inferior, ¿qué le está indicando?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Que se trata de un vehículo que transporta mercancías peligrosas."
+            },
+            {
+                "id": "b",
+                "texto": "Que es un vehículo que tiene restringida su circulación únicamente al territorio nacional"
+            },
+            {
+                "id": "c",
+                "texto": "Que se trata de un vehículo de longitud superior a 12 metros."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/V-6.png"
+    },
+    {
+        "enunciado":"Tomar alimentos antes de conducir puede afectar negativamente a la conducción. Por tanto, antes de iniciar un viaje y para evitar la aparición de sueño debe...",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "abstenerse de tomar alimentos para viajar en ayunas."
+            },
+            {
+                "id": "b",
+                "texto": "tomar alimentos de alto contenido en grasas, que dan mayor vitalidad."
+            },
+            {
+                "id": "c",
+                "texto": "tomar alimentos ligeros, de bajo poder calórico, que son de fácil digestión."
+            }
+        ],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "La velocidad adecuada está siempre...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Por debajo de la velocidad mínima."
+            },
+            {
+                "id": "b",
+                "texto": "Por encima de la velocidad mínima y por debajo de la máxima."
+            },
+            {
+                "id": "c",
+                "texto": "Por encima de la velocidad máxima y por debajo de la mínima."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/Max-Velocidad.png"
+    },
+    {
+        "enunciado":"Ud. ha estacionado en línea su turismo en el arcén de una travesía insuficientemente iluminada, ¿qué luces debe dejar encendidas?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "Únicamente las dos de posición del lado correspondiente a la calzada."
+            },
+            {
+                "id": "b",
+                "texto": "Las de estacionamiento, únicamente."
+            },
+            {
+                "id": "c",
+                "texto": "Las de posición o estacionamiento o las dos de posición del lado correspondiente a la calzada."
+            }
+        ],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado":"Ud. circula conduciendo su turismo por una vía urbana. ¿Debe llevar abrochado el cinturón de seguridad?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "Sí, en todo caso."
+            },
+            {
+                "id": "b",
+                "texto": "No, porque sólo se exige utilizar el cinturón en vías interurbanas."
+            },
+            {
+                "id": "c",
+                "texto": "No, si voy a poca velocidad."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado":"La señal rectangular que se observa en la fotografía, ¿qué le indica?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "La situación de una zona acondicionada para realizar acampadas."
+            },
+            {
+                "id": "b",
+                "texto": "La proximidad de una salida de la autopista o autovía."
+            },
+            {
+                "id": "c",
+                "texto": "La situación de una zona de escape de la calzada, acondicionada para que un vehículo pueda frenar en caso de fallo de los frenos."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/S-16.png"
+    },
+    {
+        "enunciado":"Como maniobra complementaria de la parada, Ud. se ve obligado a dar marcha atrás. Cuando la realice debe..",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "señalizarla, utilizando las señales acústicas de su turismo, incluso en poblado, para advertir de ella a los demás usuarios."
+            },
+            {
+                "id": "b",
+                "texto": "no recorrer hacia atrás más de quince metros ni invadir un cruce de vías."
+            },
+            {
+                "id": "c",
+                "texto": "realizarla rápidamente para evitar entorpecer la circulación el menor tiempo posible."
+            }
+        ],
+        "respuesta_correcta": "b"
+    },
+    {
+        "enunciado":"El paso para peatones que se observa en la fotografía, está regulado mediante semáforo circular para vehículos con luz amarilla intermitente. Si Ud. se ha detenido para ceder el paso a los peatones, ¿cuándo podrá reanudar la marcha?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "Cuando, extremando la precaución, no ponga en peligro a ningún usuario de la vía."
+            },
+            {
+                "id": "b",
+                "texto": "Cuando no haya peatones cruzando o con intención de cruzar y el semáforo pase a su fase verde."
+            },
+            {
+                "id": "c",
+                "texto": "lo antes posible para no entorpecer la circulación."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/CrucePeatonal-semaforo.png"
+    },
+    {
+        "enunciado":"De las siguientes medidas, ¿cuál de ellas cree Ud. que es conveniente aplicar, como norma general, a los heridos en un accidente de circulación?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "Aflojarles las prendas y ropas que puedan oprimir el cuello o las vías respiratorias."
+            },
+            {
+                "id": "b",
+                "texto": "Darles de beber siempre que lo soliciten."
+            },
+            {
+                "id": "c",
+                "texto": "Hacerles andar."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado":"En poblado, ¿está permitido usar las advertencias acústicas de su vehículo para advertir al conductor del turismo que circula delante que va a ser adelantado?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "Sí, siempre que sea a intervalos cortos y el sonido emitido no sea estridente."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, salvo prohibición expresa en contrario mediante la correspondiente señal."
+            },
+            {
+                "id": "c",
+                "texto": "No, porque está prohibido."
+            }
+        ],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado":"En el tramo de autopista que se observa en la fotografía, ¿en qué parte de la vía le está permitido parar o estacionar su vehículo?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "En ningún lugar, porque está prohibido."
+            },
+            {
+                "id": "b",
+                "texto": "En el lado derecho, fuera de la calzada, dejando libre la parte transitable del arcén."
+            },
+            {
+                "id": "c",
+                "texto": "En el lado derecho o izquierdo de la calzada, fuera de la misma, y dejando libre la parte transitable del arcén."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/autopista.jfif"
+
+    },
+    {
+        "enunciado":"En vías urbanas de doble sentido de circulación, ¿en qué lado de la calzada podrá estacionar su turismo, si no está prohibido?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "Únicamente en el lado derecho en el sentido de mi marcha."
+            },
+            {
+                "id": "b",
+                "texto": "A ambos lados de la calzada, pero sólo cuando no se obstaculice la circulación en ambos sentidos."
+            },
+            {
+                "id": "c",
+                "texto": "A ambos lados de la calzada, en todo caso."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado":"Circulando con su turismo en un día de niebla, ¿qué precaución, entre otras, debe tomar?",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "Adaptar la velocidad de mi vehículo a la visibilidad de la vía."
+            },
+            {
+                "id": "b",
+                "texto": "Dejar entre mi vehículo y el que circula delante una distancia mínima de 50 metros."
+            },
+            {
+                "id": "c",
+                "texto": "No efectuar ninguna maniobra."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado":"Esta señal indica peligro por la proximidad de...",
+        "respuestas":[
+            {
+                "id": "a",
+                "texto": "Un badén en la vía."
+            },
+            {
+                "id": "b",
+                "texto": "Una vía en mal estado."
+            },
+            {
+                "id": "c",
+                "texto": "Un resalto en la vía."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/baden.jpg"
+    },
+    {
+        "enunciado": "Para tratar de controlar o reducir una hemorragia por el oído, ¿es conveniente taponarlo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, lo taponaremos siempre porque es el método más eficaz."
+            },
+            {
+                "id": "b",
+                "texto": "No, lo adecuado es inclinar la cabeza hacia delante para facilitar la salida de la sangre."
+            },
+            {
+                "id": "c",
+                "texto": "No, lo adecuado es cubrir, sin presionar, el oído con una gasa estéril."
+            }
+        ],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "La señal de la fotografía le indica...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A la izquierda de la calzada, la proximidad de un paso a nivel provisto de barreras o semibarreras."
+            },
+            {
+                "id": "b",
+                "texto": "A la derecha de la calzada, la proximidad de un paso a nivel provisto de barreras o semibarreras."
+            },
+            {
+                "id": "c",
+                "texto": "La proximidad de un paso a nivel con o sin barreras."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/prox-pasonivel.png"
+    },
+    {
+        "enunciado": "En poblado, ¿le está permitido a Ud. adelantar con su turismo por la derecha a otro vehículo si para ello tiene que invadir un carril reservado para autobuses?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, pero deberá reintegrarme inmediatamente a mi carril."
+            },
+            {
+                "id": "b",
+                "texto": "No, porque está prohibido."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, cuando la línea longitudinal del lado exterior del carril sea discontinua."
+            }
+        ],
+        "respuesta_correcta": "b"
+    },
+    {
+        "enunciado": "Conduce su turismo por una vía que tiene más de un carril para alguno de los sentidos de circulación, ¿a qué velocidad máxima le está permitido circular?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A 100 kilómetros por hora, en el sentido de circulación que tenga más de un carril."
+            },
+            {
+                "id": "b",
+                "texto": "A 90 kilómetros por hora, en ambos sentidos."
+            },
+            {
+                "id": "c",
+                "texto": "A 100 kilómetros por hora en ambos sentidos."
+            }
+        ],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "¿Cree Ud. que el vehículo blanco se ha detenido en el lugar adecuado para cumplir la señal de STOP?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, porque es una zona especialmente acondicionada para tal fin."
+            },
+            {
+                "id": "b",
+                "texto": "No, porque es una zona reservada a inmovilizaciones por emergencia."
+            },
+            {
+                "id": "c",
+                "texto": "No, porque se ha detenido en una zona en la que está prohibida la entrada de vehículos."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/parada-isleta.png"
+    },
+    {
+        "enunciado": "Ud. circula por una vía que tiene doble sentido de circulación y tres carriles separados por líneas longitudinales discontinuas. ¿Cuándo podrá utilizar el carril central?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Únicamente para cambiar de dirección a la izquierda."
+            },
+            {
+                "id": "b",
+                "texto": "Para adelantar y cambiar de dirección o el sentido de la marcha."
+            },
+            {
+                "id": "c",
+                "texto": "Para realizar los adelantamientos precisos y para cambiar de dirección a la izquierda."
+            }
+        ],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "La mayor parte de las víctimas mortales por accidente de circulación se producen en...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Travesías."
+            },
+            {
+                "id": "b",
+                "texto": "Vías interurbanas."
+            },
+            {
+                "id": "c",
+                "texto": "Vías urbanas."
+            }
+        ],
+        "respuesta_correcta": "b"
+    },
+    {
+        "enunciado": "Ud. circula conduciendo su turismo por un tramo de autopista en el que, mediante la correspondiente señal, se prohíbe circular a más de 100 kilómetros por hora. ¿A qué velocidad como mínimo debe circular si no existe causa justificada que le obligue a circular a velocidad inferior?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "60 kilómetros por hora, circulen o no otros vehículos."
+            },
+            {
+                "id": "b",
+                "texto": "50 kilómetros por hora, si no circulan otros vehículos."
+            },
+            {
+                "id": "c",
+                "texto": "50 kilómetros por hora, circulen o no otros vehículos."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado": "En esta vía urbana de tres carriles para el mismo sentido, circula con su turismo por el carril central. ¿Es correcto?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, pero sólo si voy a seguir de frente porque es el carril reservado a los vehículos que sigan esa dirección."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, siempre que sea el carril que mejor convenga a mi destino."
+            },
+            {
+                "id": "c",
+                "texto": "No, porque existe espacio suficiente en el carril derecho y estoy obligado a circular por él."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/via-3carriles.png"
+    },
+    {
+        "enunciado": "Ud. conduce su turismo por esta calzada. A la vista de la señalización que se observa en la fotografía, ¿le está permitido adelantar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Únicamente cuando no venga ningún vehículo en sentido contrario."
+            },
+            {
+                "id": "b",
+                "texto": "Sí."
+            },
+            {
+                "id": "c",
+                "texto": "No."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/linea-continua.png"
+    },
+    {
+        "enunciado": "Si por causa de avería su turismo queda inmovilizado en una autopista, ¿puede ser remolcado por otro turismo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, excepcionalmente, y siempre en condiciones de seguridad, hasta el lugar más próximo donde pueda quedar inmovilizado sin entorpecer la circulación."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, pero sólo cuando el conductor del vehículo remolcador sea titular del permiso que autoriza a arrastrar remolques."
+            },
+            {
+                "id": "c",
+                "texto": "No, porque sólo debe realizarse por otro vehículo específicamente destinado a este fin."
+            }
+        ],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "Si, de noche, circula Ud. por una vía insuficientemente iluminada a más de 40 kilómetros por hora, ¿está obligado a llevar encendida la luz de largo alcance en su vehículo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, tanto fuera como dentro de poblado y siempre que no esté obligado a utilizar la de cruce."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, pero únicamente en travesías y vías fuera de poblado."
+            },
+            {
+                "id": "c",
+                "texto": "Fuera de poblado, sí; dentro de poblado, no, porque está prohibido."
+            }
+        ],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "Cuando en el semáforo se encienda la luz verde, podrá...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Seguir de frente o girar a la derecha."
+            },
+            {
+                "id": "b",
+                "texto": "Seguir de frente, únicamente."
+            },
+            {
+                "id": "c",
+                "texto": "Seguir de frente o girar a la izquierda."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/prohibido-giro-izquierda.png"
+    },
+    {
+        "enunciado": "¿Qué documento, de los que a continuación se indican, acredita que su vehículo reúne las condiciones técnicas requeridas para circular?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "La Tarjeta de Inspección Técnica de Vehículos."
+            },
+            {
+                "id": "b",
+                "texto": "El permiso de circulación."
+            },
+            {
+                "id": "c",
+                "texto": "El permiso de conducción."
+            }
+        ],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado": "¿Qué le indica la señal cuadrada de la fotografía?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "La proximidad de un tramo en el que se puede efectuar un cambio de sentido al mismo nivel."
+            },
+            {
+                "id": "b",
+                "texto": "La proximidad de una salida, a través de la cual se puede efectuar un cambio de sentido al mismo o distinto nivel."
+            },
+            {
+                "id": "c",
+                "texto": "La proximidad de una salida, a través de la cual se puede efectuar un cambio de sentido a distinto nivel."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/S-25.png"
+    }
+]

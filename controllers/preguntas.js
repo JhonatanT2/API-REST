@@ -1,6 +1,7 @@
 import { validatePregunta, validatePartialPregunta } from '../schemas/preguntas.js'
 import { PreguntaModel } from '../models/pregunta.js'
 
+
 export class PreguntaController {
     static async getAll (req, res) {
         const { tema } = req.query
@@ -17,15 +18,11 @@ export class PreguntaController {
     }
 
     static async create (req, res) {
-    
-        const result = validatePregunta(req.body)
-    
+        const result = validatePregunta(req.body)  
         if(result.error){
             return res.status(400).json({ error: JSON.parse(result.error.message) })
         }
-    
-        const newPregunta = await PreguntaModel.create({ input: result.data})
-        
+        const newPregunta = await PreguntaModel.create({ input: result.data})        
         res.status(201).json(newPregunta)
     }
 
@@ -48,7 +45,6 @@ export class PreguntaController {
         const { id } = req.params
         const updatedPregunta = await PreguntaModel.update({ id, input: result.data})
     
-        return res.json(updatedPregunta)
-    
+        return res.json(updatedPregunta)    
     }
 }
