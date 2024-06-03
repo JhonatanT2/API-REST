@@ -15,7 +15,8 @@
                 "texto": "Sí, siempre que entre pasajeros y equipaje no se sobrepase el peso máximo autorizado para el vehículo."
             }
         ],
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "a",
+        "explication": "El número de personas transportadas en un automóvil no podrá exceder en ningún caso, incluso con motivo justificado, de las plazas autorizadas del mismo. Es por ello que si este vehículo tiene capacidad para cinco pasajeros incluido el conductor, en ningún caso podrán viajar seis personas incluso cuando no se supere la MMA."
     },
     {
         "enunciado": "¿El panel de forma rectangular de color amarillo y con reborde rojo que lleva el vehículo de la fotografía en su parte posterior más inferior, ¿qué le está indicando?",
@@ -52,7 +53,8 @@
                 "texto": "tomar alimentos ligeros, de bajo poder calórico, que son de fácil digestión."
             }
         ],
-        "respuesta_correcta": "c"
+        "respuesta_correcta": "c",
+        "explication": "Las comidas copiosas y sobre todo el alcohol son dos de los peores enemigos a la hora de realizar un viaje en coche ya que aumentan la fatiga y el sueño al volante. Recuerda que para disfrutar de un viaje sin consecuencias perjudiciales para nuestra salud, debemos seguir una línea de actuación mesurada, y tener en cuenta que no por abundante, es mejor nuestra alimentación."
     },
     {
         "enunciado": "La velocidad adecuada está siempre...",
@@ -71,7 +73,8 @@
             }
         ],
         "respuesta_correcta": "b",
-        "img": "/img/Max-Velocidad.png"
+        "img": "/img/Max-Velocidad.png",
+        "explication": "La velocidad adecuada está siempre por debajo de la velocidad máxima y por encima de la mínima, pero no es igual a ninguna de las dos. Circulando con una velocidad adecuada seremos capaces de controlar nuestro vehículo ante cualquier obstáculo o imprevisto que pueda surgir."
     },
     {
         "enunciado":"Ud. ha estacionado en línea su turismo en el arcén de una travesía insuficientemente iluminada, ¿qué luces debe dejar encendidas?",
@@ -89,7 +92,8 @@
                 "texto": "Las de posición o estacionamiento o las dos de posición del lado correspondiente a la calzada."
             }
         ],
-        "respuesta_correcta": "c"
+        "respuesta_correcta": "c",
+        "explication": "Todo vehículo parado o estacionado entre la puesta y la salida del sol en calzada o arcén de una travesía insuficientemente iluminada deberá tener encendidas las luces de posición, que podrá sustituir por las de estacionamiento, o por las dos de posición del lado correspondiente a la calzada, cuando se halle estacionado en línea."
     },
     {
         "enunciado":"Ud. circula conduciendo su turismo por una vía urbana. ¿Debe llevar abrochado el cinturón de seguridad?",
@@ -107,7 +111,8 @@
                 "texto": "No, si voy a poca velocidad."
             }
         ],
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "a",
+        "explication": "El Reglamento General de Circulación señala que “el conductor y los ocupantes de los vehículos estarán obligados a utilizar, debidamente abrochados, los cinturones de seguridad homologados, tanto en la circulación por vías urbanas como interurbanas”."
     },
     {
         "enunciado":"La señal rectangular que se observa en la fotografía, ¿qué le indica?",
@@ -126,7 +131,8 @@
             }
         ],
         "respuesta_correcta": "c",
-        "img": "/img/S-16.png"
+        "img": "/img/S-16.png",
+        "explication": "SEÑAL S-16, INDICA LA SITUACIÓN DE UNA ZONA DE ESCAPE DE LA CALZADA, ACONDICIONADA PARA QUE UN VEHÍCULO PUEDA SER DETENIDO EN CASO DE FALLO DE SU SISTEMA DE FRENADO."
     },
     {
         "enunciado":"Como maniobra complementaria de la parada, Ud. se ve obligado a dar marcha atrás. Cuando la realice debe..",
@@ -144,7 +150,8 @@
                 "texto": "realizarla rápidamente para evitar entorpecer la circulación el menor tiempo posible."
             }
         ],
-        "respuesta_correcta": "b"
+        "respuesta_correcta": "b",
+        "explication": "Como norma general en el Reglamento de Circulación se establece que estará prohibido circular marcha atrás excepto en los casos en que se utilice como maniobra complementaria de cualquier maniobra que se le exija. Así pues podrá realizarse de forma complementaria a la parada, el estacionamiento o la incorporación a la circulación, siempre que no se recorran más de 15 metros marcha atrás ni se invada un cruce."
     },
     {
         "enunciado":"El paso para peatones que se observa en la fotografía, está regulado mediante semáforo circular para vehículos con luz amarilla intermitente. Si Ud. se ha detenido para ceder el paso a los peatones, ¿cuándo podrá reanudar la marcha?",
@@ -163,7 +170,8 @@
             }
         ],
         "respuesta_correcta": "a",
-        "img": "/img/CrucePeatonal-semaforo.png"
+        "img": "/img/CrucePeatonal-semaforo.png",
+        "explication": "Cuando circulando con nuestro vehículo, encontremos un semáforo circular para vehículos con una luz amarilla intermitente en su interior, ésta obligará a los usuarios de la vía a extremar la precaución y si fuera necesario a ceder el paso a los vehículos que se aproximen por la vía transversal, tanto por la izquierda como por la derecha."
     },
     {
         "enunciado":"De las siguientes medidas, ¿cuál de ellas cree Ud. que es conveniente aplicar, como norma general, a los heridos en un accidente de circulación?",
@@ -181,7 +189,8 @@
                 "texto": "Hacerles andar."
             }
         ],
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "a",
+        "explication":  "Para socorrer a las víctimas hay que realizar estas prácticas: No mover a los heridos, a menos que su vida corra peligro inmediato (incendio, inestabilidad peligrosa del vehículo, o la víctima esté en paro respiratorio o cardiorespiratorio). De igual forma, intente evitar que los heridos se muevan."
     },
     {
         "enunciado":"En poblado, ¿está permitido usar las advertencias acústicas de su vehículo para advertir al conductor del turismo que circula delante que va a ser adelantado?",
@@ -199,7 +208,8 @@
                 "texto": "No, porque está prohibido."
             }
         ],
-        "respuesta_correcta": "c"
+        "respuesta_correcta": "c",
+        "explication": "En vías dentro de poblado, los conductores de vehículos tendrán terminantemente prohibido el uso de las advertencias acústicas como el claxon, para advertir a otros vehículos de nuestra intención de adelantarlos. Únicamente estará permitido su uso en poblado para evitar un posible accidente, especialmente en vías estrechas y con curvas."
     },
     {
         "enunciado":"En el tramo de autopista que se observa en la fotografía, ¿en qué parte de la vía le está permitido parar o estacionar su vehículo?",
@@ -218,8 +228,8 @@
             }
         ],
         "respuesta_correcta": "a",
-        "img": "/img/autopista.jfif"
-
+        "img": "/img/autopista.jfif",
+        "explication": "Está totalmente prohibido realizar una parada o estacionamiento en la calzada de una autovía o autopista, aún cuando se extremen la precaución y las medidas de seguridad, excepto cuando dicha parada o estacionamiento se realice en un lugar habilitado para ello como podría ser un área de servicio."
     },
     {
         "enunciado":"En vías urbanas de doble sentido de circulación, ¿en qué lado de la calzada podrá estacionar su turismo, si no está prohibido?",
@@ -237,7 +247,8 @@
                 "texto": "A ambos lados de la calzada, en todo caso."
             }
         ],
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "a",
+        "explication": "Cuando en vías urbanas con doble sentido de circulación tengamos que estacionar nuestro vehículo en la calzada o en el arcén, situaremos el vehículo lo más cerca posible del borde derecho en el sentido de nuestra marcha. Si por el contrario la vía fuera de único sentido, podremos estacionar nuestro vehículo también en el lado izquierdo de calzada."
     },
     {
         "enunciado":"Circulando con su turismo en un día de niebla, ¿qué precaución, entre otras, debe tomar?",
@@ -255,7 +266,8 @@
                 "texto": "No efectuar ninguna maniobra."
             }
         ],
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "a",
+        "explication": "-Se deve frenar con antelación y con suavidad. -Se deve de aumentar la distancia de seguridad con los vehículos que nos preceden por lo memos el doble. -Se deve de reducir la velocidad."
     },
     {
         "enunciado":"Esta señal indica peligro por la proximidad de...",
@@ -274,25 +286,28 @@
             }
         ],
         "respuesta_correcta": "a",
-        "img": "/img/baden.jpg"
+        "img": "/img/baden.jpg",
+        "explication": "Señal P15b, tiene por función principal dar una señal de alarma sobre la existencia de un Badén en las cercanías de la vía. Normalmente este tipo de señales viene acompañado de una limitación de velocidad."
     },
     {
-        "enunciado": "Para tratar de controlar o reducir una hemorragia por el oído, ¿es conveniente taponarlo?",
+        "enunciado": "El tráfico está congestionado y prevé que se va a quedar detenido sobre el paso para peatones; ¿debe entrar en el paso?",
         "respuestas": [
             {
                 "id": "a",
-                "texto": "Sí, lo taponaremos siempre porque es el método más eficaz."
+                "texto": "Solo si no hay ningún peatón con intención de cruzar por el paso."
             },
             {
                 "id": "b",
-                "texto": "No, lo adecuado es inclinar la cabeza hacia delante para facilitar la salida de la sangre."
+                "texto": "Si."
             },
             {
                 "id": "c",
-                "texto": "No, lo adecuado es cubrir, sin presionar, el oído con una gasa estéril."
+                "texto": "No, porque se obstaculiza el paso a los peatones."
             }
         ],
-        "respuesta_correcta": "c"
+        "respuesta_correcta": "c",
+        "img": "/img/obstaculizar-paso.png",
+        "explication": "Aunque tengamos prioridad, no se debe penetrar en ningún sitio donde se entorpezca la circulación transversal, ya sean peatones, ciclistas u otros vehículos, por ejemplo en una intersección."
     },
     {
         "enunciado": "La señal de la fotografía le indica...",
@@ -311,7 +326,8 @@
             }
         ],
         "respuesta_correcta": "a",
-        "img": "/img/prox-pasonivel.png"
+        "img": "/img/prox-pasonivel.png",
+        "explication": "Señal P-7, advierte sobre la presencia un paso a nivel con barreras, en este caso acompañado de las señales de proximidad que indican la proximidad del paso."
     },
     {
         "enunciado": "En poblado, ¿le está permitido a Ud. adelantar con su turismo por la derecha a otro vehículo si para ello tiene que invadir un carril reservado para autobuses?",
@@ -329,28 +345,31 @@
                 "texto": "Sí, cuando la línea longitudinal del lado exterior del carril sea discontinua."
             }
         ],
-        "respuesta_correcta": "b"
+        "respuesta_correcta": "b",
+        "explication": "En los tramos de carril bus en que la marca blanca longitudinal sea una línea discontinua, está permitido que los turismos la utilicen para realizar una maniobra que no sea la de parar, estacionar, adelantar o cambiar el sentido de la marcha, teniendo siempre preferencia los autobuses y los taxis."
     },
     {
-        "enunciado": "Conduce su turismo por una vía que tiene más de un carril para alguno de los sentidos de circulación, ¿a qué velocidad máxima le está permitido circular?",
+        "enunciado": "Transporta en su turismo una carga que sobresale por la parte trasera; ¿debe señalizarla si circula de día?",
         "respuestas": [
             {
                 "id": "a",
-                "texto": "A 100 kilómetros por hora, en el sentido de circulación que tenga más de un carril."
+                "texto": "Solo se señalizará de noche o con condiciones meteorológicas adversas."
             },
             {
                 "id": "b",
-                "texto": "A 90 kilómetros por hora, en ambos sentidos."
+                "texto": "Sí, con un panel colocado en el extremo posterior de la carga."
             },
             {
                 "id": "c",
-                "texto": "A 100 kilómetros por hora en ambos sentidos."
+                "texto": "No; en los turismos no es obligatorio señalizar la carga durante el día."
             }
         ],
-        "respuesta_correcta": "c"
+        "respuesta_correcta": "b",
+        "img": "/img/carga-sobresaliente.png",
+        "explication": "Siempre cuando carguemos nuestro turismo con una carga que sobresalga de su proyección en planta por la parte trasera, esta deberá ser señalizada para que el resto de usuarios de la vía la visualicen, mediante un panel de 50 por 50 centímetros de dimensión y pintado con franjas diagonales alternas de color rojo y blanco, colocado en el extremo de la carga. Deberemos llevar este panel siempre que conduzcamos de día y con buenas condiciones de visibilidad y añadiremos una luz roja cuando lo hagamos en horas nocturnas."
     },
     {
-        "enunciado": "¿Cree Ud. que el vehículo blanco se ha detenido en el lugar adecuado para cumplir la señal de STOP?",
+        "enunciado": "¿Cree Ud. que este vehículo se ha detenido en un lugar adecuado?",
         "respuestas": [
             {
                 "id": "a",
@@ -366,25 +385,28 @@
             }
         ],
         "respuesta_correcta": "c",
-        "img": "/img/parada-isleta.png"
+        "img": "/img/parada-isleta.png",
+        "explication": "Se considerarán paradas o estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación aquellas que se efectúen en las medianas, separadores, isletas u otros elementos de canalización del tráfico. Así pues estará totalmente prohibido realizar una parada o estacionamiento en estos lugares."
     },
     {
-        "enunciado": "Ud. circula por una vía que tiene doble sentido de circulación y tres carriles separados por líneas longitudinales discontinuas. ¿Cuándo podrá utilizar el carril central?",
+        "enunciado": "¿Qué alumbrado deberá mantener encendido un vehículo estacionado durante la noche en el arcén de una travesía insuficientemente iluminada?",
         "respuestas": [
             {
                 "id": "a",
-                "texto": "Únicamente para cambiar de dirección a la izquierda."
+                "texto": "Las luces de posición, que podrá sustituir por las de estacionamiento."
             },
             {
                 "id": "b",
-                "texto": "Para adelantar y cambiar de dirección o el sentido de la marcha."
+                "texto": "Las luces de largo alcance y las luces de emergencia."
             },
             {
                 "id": "c",
-                "texto": "Para realizar los adelantamientos precisos y para cambiar de dirección a la izquierda."
+                "texto": "Ninguno, ya que es un estacionamiento dentro de poblado."
             }
         ],
-        "respuesta_correcta": "c"
+        "respuesta_correcta": "a",
+        "img": "/img/coche2.png",
+        "explication": "Cualquier vehículo que se encuentre detenido, parado o estacionado entre la puesta o la salida del sol en la calzada o en el arcén de una travesía insuficientemente iluminada, deberá dejar encendidas las luces de posición, pudiendo sustituirlas por las de estacionamiento, o por las dos de posición del lado correspondiente a la calzada, cuando se encuentre estacionado en línea."
     },
     {
         "enunciado": "La mayor parte de las víctimas mortales por accidente de circulación se producen en...",
@@ -402,7 +424,8 @@
                 "texto": "Vías urbanas."
             }
         ],
-        "respuesta_correcta": "b"
+        "respuesta_correcta": "b",
+        "explication": "La mayoría de las víctimas que se producen en los accidentes de circulación, especialmente las mortales, se producen en accidentes en vías interurbanas, especialmente en los tramos rectos incluso más que en las curvas, y a velocidades de entre 50 y 80 kilómetros por hora."
     },
     {
         "enunciado": "Ud. circula conduciendo su turismo por un tramo de autopista en el que, mediante la correspondiente señal, se prohíbe circular a más de 100 kilómetros por hora. ¿A qué velocidad como mínimo debe circular si no existe causa justificada que le obligue a circular a velocidad inferior?",
@@ -420,7 +443,8 @@
                 "texto": "50 kilómetros por hora, circulen o no otros vehículos."
             }
         ],
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "a",
+        "explication": "En las autopistas y autovías, sea cual sea su velocidad máxima la velocidad mínima a la que podremos circular sin causa justificada, siempre será de 60 kilómetros por hora independientemente de los vehículos que circulen por dicha vía."
     },
     {
         "enunciado": "En esta vía urbana de tres carriles para el mismo sentido, circula con su turismo por el carril central. ¿Es correcto?",
@@ -439,7 +463,8 @@
             }
         ],
         "respuesta_correcta": "b",
-        "img": "/img/via-3carriles.png"
+        "img": "/img/via-3carriles.png",
+        "explication": "Cuando circulemos por una vía dentro de poblado con al menos dos carriles reservados para cada sentido de circulación y delimitados por marcas longitudinales como en el caso de la imagen, deberemos circular por el carril que mejor convenga a nuestro destino y únicamente podremos abandonarlo si tenemos la intención de realizar un cambio de sentido, adelantar a otro vehículo, parar o estacionar."
     },
     {
         "enunciado": "Ud. conduce su turismo por esta calzada. A la vista de la señalización que se observa en la fotografía, ¿le está permitido adelantar?",
@@ -458,7 +483,8 @@
             }
         ],
         "respuesta_correcta": "c",
-        "img": "/img/linea-continua.png"
+        "img": "/img/linea-continua.png",
+        "explication": "El artículo 167 del Reglamento General de Circulación prohíbe girar o adelantar cuando existe una línea continua en la carretera."
     },
     {
         "enunciado": "Si por causa de avería su turismo queda inmovilizado en una autopista, ¿puede ser remolcado por otro turismo?",
@@ -476,7 +502,8 @@
                 "texto": "No, porque sólo debe realizarse por otro vehículo específicamente destinado a este fin."
             }
         ],
-        "respuesta_correcta": "c"
+        "respuesta_correcta": "c",
+        "explication": "En autopistas y autovías, el vehículo accidentado o averiado solamente puede ser remolcado por otro vehículo destinado a ello (grúa)."
     },
     {
         "enunciado": "Si, de noche, circula Ud. por una vía insuficientemente iluminada a más de 40 kilómetros por hora, ¿está obligado a llevar encendida la luz de largo alcance en su vehículo?",
@@ -494,7 +521,8 @@
                 "texto": "Fuera de poblado, sí; dentro de poblado, no, porque está prohibido."
             }
         ],
-        "respuesta_correcta": "c"
+        "respuesta_correcta": "c",
+        "explication": "Cuando se circule en horas nocturnas por vías urbanas o travesías, suficiente o insuficientemente iluminadas, se deberá utilizar el alumbrado de posición y corto alcance, no siendo posible utilizar el de largo alcance, aunque no se deslumbre a otros usuarios."
     },
     {
         "enunciado": "Cuando en el semáforo se encienda la luz verde, podrá...",
@@ -513,7 +541,8 @@
             }
         ],
         "respuesta_correcta": "a",
-        "img": "/img/prohibido-giro-izquierda.png"
+        "img": "/img/prohibido-giro-izquierda.png",
+        "explication": "Señal R-303 Giro a la Izquierda Prohibido"
     },
     {
         "enunciado": "¿Qué documento, de los que a continuación se indican, acredita que su vehículo reúne las condiciones técnicas requeridas para circular?",
@@ -531,7 +560,8 @@
                 "texto": "El permiso de conducción."
             }
         ],
-        "respuesta_correcta": "a"
+        "respuesta_correcta": "a",
+        "explication": "La tarjeta ITV del vehículo (Inspección Técnica de Vehículos) es el documento que garantiza que el vehículo en cuestión circularcon las condiciones técnicas suficientes de seguridad y de respeto por el medio ambiente exigidas por la autoridad de tráfico. La tarjeta ITV también indicará si el vehículo y sus componentes están debidamente homologados."
     },
     {
         "enunciado": "¿Qué le indica la señal cuadrada de la fotografía?",
@@ -550,6 +580,613 @@
             }
         ],
         "respuesta_correcta": "c",
-        "img": "/img/S-25.png"
+        "img": "/img/S-25.png",
+        "explication": "La señal de indicación S-25 de la imagen, indica la proximidad de una salida a través de la cual se puede efectuar un cambio de sentido a distinto nivel. La señal S-22 en cambio indica la proximidad de una salida a través de la cual se puede efectuar un cambio de sentido a un mismo nivel."
+    },
+
+
+
+    
+    {
+        "enunciado": "Si nuestro vehículo tiene la amortiguación en mal estado, ¿cómo se comportará en las curvas?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Tenderá a seguir en línea recta."
+            },
+            {
+                "id": "b",
+                "texto": "Tendrá menor estabilidad."
+            },
+            {
+                "id": "c",
+                "texto": "Tendrá mayor estabilidad."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/A1.png",
+        "explication": "Circular con unos amortiguadores defectuosos o en mal estado en nuestro vehículo, aumentará el riesgo de sufrir un accidente para el conductor y ocupantes del mismo. Además aumentará la distancia de frenado, al no asegurarse que las ruedas estén en permanente contacto con la calzada, sufriremos inestabilidad en la frenada y un desgaste irregular de los neumáticos."
+    },
+    {
+        "enunciado": "¿Qué nos indica la señal?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Prohíbe la entrada a furgones."
+            },
+            {
+                "id": "b",
+                "texto": "Prohíbe la entrada a todos los vehículos destinados al transporte de mercancías."
+            },
+            {
+                "id": "c",
+                "texto": "Prohíbe la entrada a camiones y furgones."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/r-106.jpg",
+        "explication": "La señal R-106 que vemos en la imagen prohíbe la entrada a la vía en la que se encuentre a los camiones y furgonetas que se dediquen al transporte de mercancías."
+    },
+    {
+        "enunciado": "Si está tomando algún tipo de tratamiento médico y además conduce debe de saber que...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Que los medicamentos recetados por su médico, no influyen en la capacidad para conducir."
+            },
+            {
+                "id": "b",
+                "texto": "Que el conducir lo tiene prohibido, si toma cualquier tipo de medicamento."
+            },
+            {
+                "id": "c",
+                "texto": "Que hay medicamentos que pueden influir negativamente en la atención y en el tiempo de reacción."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "Algunos medicamentos pueden provocar efectos secundarios que afectan la atención y el tiempo de reacción, lo que aumenta el riesgo de estar involucrado en un accidente de tráfico. Siempre es recomendable consultar con el médico o el farmacéutico si hay dudas sobre cómo un medicamento puede afectar la habilidad para conducir."
+    },
+    {
+        "enunciado": "Circulando por una vía urbana, ¿Qué luces debe utilizar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Las de posición."
+            },
+            {
+                "id": "b",
+                "texto": "Las de corto alcance."
+            },
+            {
+                "id": "c",
+                "texto": "Las de largo alcance."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "Según la Dirección General de Tráfico (DGT) de España, debes utilizar las siguientes luces:  Luces de cruce o corto alcance: Son las luces que se utilizan de manera habitual en ciudad y carretera. Tienen un haz corto, ancho y asimétrico, orientado hacia el lado derecho de la calzada para iluminar más esa zona y no deslumbrar al que circula de frente."
+    },
+    {
+        "enunciado": "La velocidad máxima en poblado es...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "40 km/h."
+            },
+            {
+                "id": "b",
+                "texto": "50 km/h."
+            },
+            {
+                "id": "c",
+                "texto": "60 km/h."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "La velocidad máxima permitida en poblado es de 50 km/h, según establece la normativa de tráfico para zonas urbanas. Esta limitación busca garantizar la seguridad de todos los usuarios de la vía."
+    },
+    {
+        "enunciado": "El alcohol se elimina...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Más deprisa mientras se duerme."
+            },
+            {
+                "id": "b",
+                "texto": "Más despacio mientras se duerme."
+            },
+            {
+                "id": "c",
+                "texto": "A la misma velocidad, dormido o despierto."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "La eliminación del alcohol será siempre mucho más lenta durante las horas de sueño que mientras estamos despiertos, ya que la absorción del alcohol por parte del cuerpo en reposo es siempre más lenta. Es por ello que en ocasiones tras habernos acostado con una tasa de alcoholemia alta, nos levantemos sufriendo todavía sus efectos."
+    },
+    {
+        "enunciado": "Si conduciendo nos aproximamos a niños o a ancianos deberemos...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Avisarles con señales acústicas, nuestra presencia."
+            },
+            {
+                "id": "b",
+                "texto": "Nos detendremos para cederles siempre el paso."
+            },
+            {
+                "id": "c",
+                "texto": "Adoptaremos las precauciones necesarias para no ponerlos en peligro."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "Cuando nos aproximamos a niños o ancianos mientras conducimos, debemos adoptar las precauciones necesarias para no ponerlos en peligro. Esto implica reducir la velocidad, estar alerta y ser especialmente cuidadosos al pasar cerca de ellos. En ningún caso deberá advertirles con señales acústicas, y no siempre deberá detenerse para cederles el paso cuando se aproxime a ellos."
+    },
+    {
+        "enunciado": "¿Cuál es el orden de influencia de los factores de riesgo en los accidentes?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "1º factor humano, 2º factor vía y entorno, 3º factor vehículo."
+            },
+            {
+                "id": "b",
+                "texto": "1º factor vehículo, 2º factor humano, 3º factor vía y entorno."
+            },
+            {
+                "id": "c",
+                "texto": "1º factor vía y entorno, 2º factor humano, 3º factor vehículo."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "",
+        "explication": "El factor humano es el que tiene mayor influencia en los accidentes de tráfico, seguido por el factor vía y entorno, y en último lugar, el factor vehículo. La mayoría de los accidentes se deben a errores humanos, como distracciones, exceso de velocidad o conducción bajo los efectos del alcohol."
+    },
+    {
+        "enunciado": "¿De qué depende la distancia de detención?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "De la velocidad, solamente."
+            },
+            {
+                "id": "b",
+                "texto": "De la velocidad, del tiempo de reacción y de la distancia de frenado."
+            },
+            {
+                "id": "c",
+                "texto": "Del tipo de vehículo, solamente."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/frenado.png",
+        "explication": "La distancia de detención depende de la velocidad a la que se viaja, del tiempo de reacción del conductor, este tiempo se refiere al intervalo que transcurre desde que el conductor detecta el peligro hasta que reacciona activando los frenos, y de la distancia de frenado del vehículo. Estos factores combinados determinan el espacio total necesario para que un vehículo se detenga por completo."
+    },
+    {
+        "enunciado": "¿Qué finalidad tiene el retrovisor?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Permitir una visibilidad clara hacia atrás y hacia los lados del vehículo."
+            },
+            {
+                "id": "b",
+                "texto": "Permitir una visibilidad clara hacia atrás del vehículo."
+            },
+            {
+                "id": "c",
+                "texto": "Permitir una visibilidad clara hacia los lados del vehículo."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/retro-v.png",
+        "explication": "El retrovisor tiene la finalidad de proporcionar una visibilidad clara hacia atrás y hacia los lados del vehículo. Esto permite al conductor estar al tanto de otros vehículos, peatones y obstáculos en su entorno, contribuyendo a la seguridad en la conducción."
+    },
+    {
+        "enunciado": "Cuando dos señales del mismo tipo parezcan estar en contradicción, los conductores obedecerán...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Ninguna de las dos."
+            },
+            {
+                "id": "b",
+                "texto": "La señal más restrictiva."
+            },
+            {
+                "id": "c",
+                "texto": "Ambas señales, ya que son del mismo tipo."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/c1.png",
+        "explication": "Cuando dos señales del mismo tipo parecen estar en contradicción, los conductores deben obedecer a la señal más restrictiva. Esto significa que si hay dos señales que aparentemente indican instrucciones opuestas, debes seguir las restricciones más estrictas para garantizar la seguridad vial."
+    },
+    {
+        "enunciado": "¿Está permitido los adelantamientos en los túneles que disponen de un solo carril para cada sentido de la marcha?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí."
+            },
+            {
+                "id": "b",
+                "texto": "No."
+            },
+            {
+                "id": "c",
+                "texto": "Si, cuando cuente con arcenes"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/gtlqx9xa.png",
+        "explication": "En los túneles que disponen de un solo carril para cada sentido de la marcha, no está permitido realizar adelantamientos. La seguridad vial es fundamental en estas situaciones, y adelantar en un túnel de un solo carril podría ser peligroso para todos los conductores involucrados. Es importante seguir las normas de tráfico y conducir de manera segura en estas condiciones."
+    },
+    {
+        "enunciado": "¿Qué nos indica la señal?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Carril obligatorio para ciclistas."
+            },
+            {
+                "id": "b",
+                "texto": "Peligro por la proximidad de un paso para motoristas."
+            },
+            {
+                "id": "c",
+                "texto": "Peligro por la proximidad de un paso para ciclistas."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img":"/img/lgklbe18.png",
+        "explication": "La señal indica peligro por la proximidad de un paso para ciclistas. Es importante estar alerta y reducir la velocidad al acercarse a este tipo de zonas para garantizar la seguridad de los ciclistas y otros usuarios de la vía."
+    },
+    {
+        "enunciado": "Si su motocicleta solo dispone de un espejo retrovisor, ¿en qué lado debería de llevarlo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Está obligado a llevar 2 espejos retrovisores."
+            },
+            {
+                "id": "b",
+                "texto": "El derecho."
+            },
+            {
+                "id": "c",
+                "texto": "El izquierdo."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "En las motocicletas cuya velocidad máxima es menor o igual a 100 km/h será obligatorio llevar el retrovisor izquierdo en nuestra motocicleta mientras que el derecho será opcional y en ningún caso obligatorio. Así pues si solo se dispone de un retrovisor se deberá colocar en el lado izquierdo."
+    },
+    {
+        "enunciado": "¿Qué nos indica la señal?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Que nos acercamos a una intersección."
+            },
+            {
+                "id": "b",
+                "texto": "Telepeaje o peaje dinámico."
+            },
+            {
+                "id": "c",
+                "texto": "Que nos acercamos a un puente elevado."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/whvv5dmr.png",
+        "explication": "La señal indica telepeaje o peaje dinámico. Estas señales suelen indicar la proximidad a una zona de peaje en la que se utiliza un sistema electrónico para el pago, como el telepeaje. Es importante estar atento a estas señales y seguir las indicaciones para abonar el peaje correctamente."
+    },
+    {
+        "enunciado": "¿A qué motocicletas le prohíbe la entrada la señal de la imagen?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A las de dos ruedas sin sidecar solamente."
+            },
+            {
+                "id": "b",
+                "texto": "A las de más de 125 centímetros cúbicos, únicamente."
+            },
+            {
+                "id": "c",
+                "texto": "A todas."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/rfgtod0r.png",
+        "explication": "La señal R-104 de la imagen prohíbe la entrada a todas las motocicletas. Es importante prestar atención a las señales de tráfico para garantizar la seguridad vial."
+    },
+    {
+        "enunciado": "El semáforo está en verde, pero la intersección está saturada. ¿Qué debe hacer?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Entrar en la intersección porque el semáforo me lo permite."
+            },
+            {
+                "id": "b",
+                "texto": "Esperar hasta que haya espacio para cruzar."
+            },
+            {
+                "id": "c",
+                "texto": "Aceleraré para pasar rápidamente."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/7e8wunwm.png",
+        "explication": "Cuando el semáforo está en verde pero la intersección está saturada, debes esperar hasta que haya espacio para cruzar. Aunque el semáforo te permita avanzar, es importante ejercer paciencia y no entrar en la intersección si no hay suficiente espacio para hacerlo de manera segura. La congestión del tráfico puede dificultar el flujo vehicular, y forzar la entrada podría causar bloqueos o situaciones peligrosas. Prioriza la seguridad y espera a que la situación se despeje antes de cruzar."
+    },
+    {
+        "enunciado": "¿Qué tipo de molestias o lesiones provoca frecuentemente el latigazo cervical?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Contractura muscular, disminución de la movilidad del cuello y vértigos."
+            },
+            {
+                "id": "b",
+                "texto": "Fracturas en las piernas, dolor abdominal y contractura muscular."
+            },
+            {
+                "id": "c",
+                "texto": "Rotura de las costillas, encharcamiento pulmonar y dolor cervical."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img":"",
+        "explication": "El latigazo cervical es una lesión que ocurre comúnmente después de un impacto brusco en la parte trasera del vehículo, como en una colisión trasera. Las molestias y lesiones asociadas con el latigazo cervical incluyen contractura muscular, disminución de la movilidad del cuello y vértigos. Es importante buscar atención médica si se sospecha un latigazo cervical, ya que el diagnóstico temprano y el tratamiento adecuado son cruciales para la recuperación."
+    },
+    {
+        "enunciado": "Esta señal, ¿qué nos indica?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Un cambio de sentido obligatorio hacia la izquierda."
+            },
+            {
+                "id": "b",
+                "texto": "Bifurcación con desvío del carril izquierdo."
+            },
+            {
+                "id": "c",
+                "texto": "Bifurcación hacia la izquierda solo para los turismos."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/dkls01wq.png",
+        "explication": "La señal S-60a indica, en una calzada de dos carriles de circulación en el mismo sentido, que en el próximo tramo el carril de la izquierda se bifurcará hacia ese mismo lado. Es una señal que advierte sobre una bifurcación con desvío del carril izquierdo."
+    },
+    {
+        "enunciado": "Cuando existan placas de hielo en la calzada, ¿cuál es la forma más aconsejable y segura de descender una pendiente prolongada?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Reduciendo la velocidad con el freno de mano, especialmente al trazar las curvas."
+            },
+            {
+                "id": "b",
+                "texto": "Con marchas largas para mejorar el agarre de las ruedas motrices."
+            },
+            {
+                "id": "c",
+                "texto": "Con marchas cortas para frenar lo menos posible."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "Al descender una pendiente con hielo, usar marchas cortas (como la segunda o tercera marcha) permite que el motor actúe como un freno motor. Esto ayuda a controlar la velocidad sin depender excesivamente de los frenos, lo que podría causar deslizamiento en una superficie resbaladiza. Recuerda siempre adaptar tu conducción a las condiciones de la carretera y mantener una distancia segura con otros vehículos."
+    },
+    {
+        "enunciado": "¿Está permitido parar o estacionar en un paso para peatones y en sus proximidades?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, siempre."
+            },
+            {
+                "id": "b",
+                "texto": "En el paso para peatones no. Pero en sus proximidades sí."
+            },
+            {
+                "id": "c",
+                "texto": "En el paso para peatones se puede parar, y en sus proximidades, se puede parar y estacionar."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "Estará totalmente prohibido parar o estacionar en un paso para peatones señalizados. En cambio sí estará permitido parar o estacionar en las proximidades de un paso de peatones, siempre que no se obstaculice o dificulte el paso a otros vehículos."
+    },
+    {
+        "enunciado": "¿Cuál es la tasa máxima de alcohol permitida para el conductor de una bicicleta?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "0.25 miligramos por litro de aire espirado."
+            },
+            {
+                "id": "b",
+                "texto": "0.35 miligramos por litro de aire espirado."
+            },
+            {
+                "id": "c",
+                "texto": "Los conductores de bicicletas no tienen tasa máxima de alcohol."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/q8q1boea.png",
+        "explication": "Los ciclistas no podrán manejar la bicicleta en vías públicas con tasas de alcoholemia superiores a 0,5 gramos por litro en sangre y 0,25 miligramos en aire expirado, siendo esa tasa su tasa de alcoholemia máxima. Con una tasa de 0,15 mg/litro o inferior no serán sancionados."
+    },
+    {
+        "enunciado": "¿Qué nos indican las marcas viales de esta imagen?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "La prohibición de estacionar."
+            },
+            {
+                "id": "b",
+                "texto": "La zona en que se permite estacionar, al igual que las marcas blancas."
+            },
+            {
+                "id": "c",
+                "texto": "Que en ciertos periodos del día, la duración del estacionamiento está limitada."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/gadrgvmb.png",
+        "explication": "Las marcas viales azules generalmente indican una zona de estacionamiento regulado donde nn ciertas ocasiones del día y durante un tiempo limitado, los conductores podrán estacionarse, pero con ciertas restricciones. Estas restricciones suelen incluir límites en la duración del estacionamiento y pueden requerir el pago de una tarifa. Las regulaciones específicas pueden variar, por lo que es importante prestar atención a las señales adicionales o a los parquímetros para obtener detalles completos."
+    },
+    {
+        "enunciado": "Los accidentes de tráfico causados por una distracción, ¿son más frecuentes en ...?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Conductores noveles."
+            },
+            {
+                "id": "b",
+                "texto": "Mayores de 65 años."
+            },
+            {
+                "id": "c",
+                "texto": "Jóvenes entre 18-25 años y los mayores de 70 años."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "Los estudios indican que los accidentes de tráfico causados por distracciones son más frecuentes en los grupos de jóvenes entre 18-25 años y los mayores de 70 años. Los jóvenes de 18-25 años es un grupo más propenso a distracciones debido a la falta de experiencia en la conducción, el uso más frecuente de dispositivos móviles y otros elementos distractores mientras conducen, y una mayor predisposición a tomar riesgos.  mientras que los conductores mayores pueden tener tiempos de reacción más lentos, una disminución en sus habilidades de atención y reacción, lo que los hace más susceptibles a distracciones y a accidentes."
+    },
+    {
+        "enunciado": "Los accidentes de tráfico generan...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Un enorme impacto económico, solamente."
+            },
+            {
+                "id": "b",
+                "texto": "Daños materiales, y costes humanos, únicamente."
+            },
+            {
+                "id": "c",
+                "texto": "Daños materiales, costes sanitarios, administrativos y humanos."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "Los accidentes de tráfico tienen un impacto multifacético que incluye daños materiales, costes sanitarios, administrativos y humanos. Además del impacto económico directo, los costes humanos como las lesiones y la pérdida de vidas son consecuencias devastadoras de los accidentes de tráfico."
+    },
+    {
+        "enunciado": "En un turismo, ¿cuántos chalecos reflectantes es obligatorio llevar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Dos: uno para el conductor y otro para el acompañante."
+            },
+            {
+                "id": "b",
+                "texto": "Uno por cada plaza autorizada de que disponga el vehículo."
+            },
+            {
+                "id": "c",
+                "texto": "Uno."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/bo8c8gpl.png",
+        "explication": "Los conductores de turismos, autobuses, automóviles destinados al transporte de mercancías, vehículos mixtos, conjuntos de vehículos no agrícolas, así como los conductores y personal auxiliar de los vehículos piloto de protección y acompañamiento deberán llevar de forma obligatoria en el vehículo un chaleco reflectante de alta visibilidad a mano, aunque siempre será útil que lleven dos para que se lo pueda poner uno de los acompañantes."
+    },
+    {
+        "enunciado": "Bajo los efectos del alcohol, el tiempo de reacción...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "aumenta."
+            },
+            {
+                "id": "b",
+                "texto": "no se ve afectado."
+            },
+            {
+                "id": "c",
+                "texto": "disminuye."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/q8q1boea.png",
+        "explication": "Bajo los efectos del alcohol, el tiempo de reacción de una persona aumenta. Esto significa que se tarda más tiempo en responder ante la aparición de un posible obstáculo en la vía, lo que puede ser peligroso al conducir o realizar actividades que requieren atención y reflejos rápidos."
+    },
+    {
+        "enunciado": "A la vista de las señales...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No puedo ni estacionar ni parar."
+            },
+            {
+                "id": "b",
+                "texto": "Puedo estacionar, pero no parar."
+            },
+            {
+                "id": "c",
+                "texto": "No hay que obedecer ninguna, están colocadas de forma antirreglamentaria."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/cill9eg8.png",
+        "explication": "La señal vertical R-308 prohíbe únicamente el estacionamiento de vehículos, pero la señal R-307 de restricción o prohibición, prohibirá a todos los usuarios de la vía en la que se encuentra tanto la parada como el estacionamiento en el lado de la calzada en que se sitúe. La norma general dice que deberemos siempre obedecer a la señal de tráfico más restrictivo es por eso que obedeceremos a la situada en la parte superior"
+    },
+    {
+        "enunciado": "¿Está permitido circular con un turismo por una vía en cuyo acceso está situada esta señal?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, porque es una vía reservada para todos los vehículos de dos ruedas."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, porque es una vía permitida para todos los vehículos, excepto ciclos."
+            },
+            {
+                "id": "c",
+                "texto": "No, porque es una vía reservada para ciclos."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/77evzgn9.png",
+        "explication": "La señal R-407a indica una vía reservada para ciclos o vía ciclista. Por lo tanto, no está permitido circular con un turismo por esta vía, ya que está destinada exclusivamente a ciclos."
+    },
+    {
+        "enunciado": "Los animales tienen preferencia de paso en el lugar indicado con...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "la señal B."
+            },
+            {
+                "id": "b",
+                "texto": "la señal C."
+            },
+            {
+                "id": "c",
+                "texto": "la señal A."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/h1r4yzg9.png",
+        "explicacion": "La señal P-23 indica un lugar donde de manera regular o frecuente la vía es atravesada por animales domésticos, ademas esta señalizada en la parte inferior (CAÑADA) dando prioridad al paso de animales."
     }
 ]
+
+

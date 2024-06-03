@@ -17,6 +17,19 @@ export class PreguntaController {
         res.status(404).json({message: 'Pregunta not found'})
     }
 
+    static async findByType(req, res){
+        try{
+            const type = req.params.tipo
+            console.log("AQUI EL TIPO"+type)
+            const tests = await testModel.findByType(type)
+            if(tests) return res.json(tests)
+
+            res.status(404).json({message: `Tests de tipo ${type} no encontrado`})
+        } catch (error){
+            console.error('Error al buscar el test de ese tipo:', error);
+            res.status(500).send(error.message);
+        }
+    }
     static async create (req, res) {
         const result = validatePregunta(req.body)  
         if(result.error){
