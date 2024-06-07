@@ -68,7 +68,7 @@ export class UserController{
                 maxAge: 3600000, // 1 hora
             });
     
-            res.status(200).json({ message, user: { name: user.name, email: user.email } });
+            res.status(200).json({ message, user: { name: user.name, email: user.email, id: user.id } });
         } catch (error) {
             console.error("Error en API", error);
             res.status(400).json({ error: error.message });

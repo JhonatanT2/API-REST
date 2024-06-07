@@ -4,7 +4,7 @@ const ACEPTED_ORIGINS = [
     'http://localhost:8080',
     'http://localhost:3001',
     'http://localhost:3000',
-    'http://192.168.1.167:3000'
+    'http://192.168.1.133:3000'
 
 ]
 

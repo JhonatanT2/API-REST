@@ -6,6 +6,7 @@ import { config } from 'dotenv';
 import { testRouter } from './routes/test.js';
 import { preguntaRouter } from './routes/pregunta.js';
 import { respuestaRouter } from './routes/respuestas.js';
+import { test_resultRouter } from './routes/test_result.js';
 import cookieParser from 'cookie-parser';
 
 
@@ -23,6 +24,7 @@ app.use('/pregunta', preguntaRouter);
 app.use('/users', usersRouter);
 app.use('/test',testRouter);
 app.use('/respuestas',respuestaRouter);
+app.use('/results',test_resultRouter);
 app.use('/img', express.static('./img'));
 
 const PORT = process.env.PORT ?? 1234

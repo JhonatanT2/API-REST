@@ -1186,7 +1186,3592 @@
         "respuesta_correcta": "c",
         "img": "/img/h1r4yzg9.png",
         "explicacion": "La señal P-23 indica un lugar donde de manera regular o frecuente la vía es atravesada por animales domésticos, ademas esta señalizada en la parte inferior (CAÑADA) dando prioridad al paso de animales."
+    },
+
+
+
+
+
+    {
+        "enunciado": "¿Qué función cumplen los sistemas de alumbrado del vehículo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Únicamente la de alumbrar la vía."
+            },
+            {
+                "id": "b",
+                "texto": "Únicamente la de ser visto por los demás usuarios de la vía."
+            },
+            {
+                "id": "c",
+                "texto": "Tanto la de ver como la de ser visto por los demás usuarios de la vía."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/97ajiff9.png",
+        "explicacion": "Los sistemas de alumbrado del vehículo cumplen una doble función: permiten al conductor ver la vía y sus alrededores en condiciones de baja visibilidad, y al mismo tiempo, hacen que el vehículo sea visible para otros usuarios de la vía, contribuyendo así a la seguridad vial."
+    },
+    {
+        "enunciado": "Si en vía interurbana un ciclomotor de dos ruedas quiere girar a la izquierda y no hay carril acondicionado para ello:",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Debe de situarse a la derecha, e iniciarlo siempre desde dentro de la calzada."
+            },
+            {
+                "id": "b",
+                "texto": "No puede realizar el giro."
+            },
+            {
+                "id": "c",
+                "texto": "Debe situarse a la derecha, e iniciarlo fuera de la calzada siempre que sea posible."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/cujqpqsd.png",
+        "explicacion": "En una vía interurbana, si un ciclomotor de dos ruedas quiere girar a la izquierda y no existe un carril específicamente acondicionado para ello, el conductor debe situarse a la derecha y, si es posible, iniciar el giro fuera de la calzada. Esto es para evitar obstruir el tráfico y para mayor seguridad del conductor del ciclomotor."
+    },
+    {
+        "enunciado": "Si conduce una motocicleta con un pasajero, ¿qué debe tener en cuenta?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Que será más difícil que, al frenar, la rueda trasera se quede bloqueada."
+            },
+            {
+                "id": "b",
+                "texto": "Que la distancia de frenado será mayor."
+            },
+            {
+                "id": "c",
+                "texto": "Que aumentará el tiempo de reacción."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explicacion": "Al conducir una motocicleta con un pasajero, es importante tener en cuenta que la distancia de frenado será mayor debido al aumento del peso total del vehículo. Esto afecta la dinámica de frenado y requiere una mayor anticipación y cuidado al frenar."
+    },
+    {
+        "enunciado": "Para saber la fecha en que se debe pasar la ITV, la antigüedad de un vehículo empieza a contar a partir de...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "la fecha en que pasó la inspección de fábrica."
+            },
+            {
+                "id": "b",
+                "texto": "El día de la compra del vehículo."
+            },
+            {
+                "id": "c",
+                "texto": "La fecha de la primera matriculación."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/hv0bs3jq.png",
+        "explicacion": "La antigüedad de un vehículo, a efectos de la Inspección Técnica de Vehículos (ITV), comienza a contar desde la fecha de la primera matriculación. Esta es la fecha que se toma como referencia para determinar los plazos en los que se debe realizar la inspección periódica obligatoria."
+    },
+    {
+        "enunciado": "El mal estado de la vía, ¿influye en la aparición de fatiga?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, en ningún caso."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, porque exige una mayor atención en la conducción."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, pero sólo si conducimos de noche."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explicacion": "El mal estado de la vía sí influye en la aparición de fatiga, ya que conduce a una mayor demanda de atención y concentración por parte del conductor. Esto puede aumentar el estrés y el cansancio durante la conducción, especialmente en viajes largos o en condiciones adversas."
+    },
+    {
+        "enunciado": "Las carreteras convencionales son, en general...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Más seguras que las autopistas y autovías."
+            },
+            {
+                "id": "b",
+                "texto": "Igual de seguras que las autopistas y autovías."
+            },
+            {
+                "id": "c",
+                "texto": "Más inseguras que las autopistas y autovías."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explicacion": "En general, las carreteras convencionales se consideran más inseguras que las autopistas y autovías debido a factores como la presencia de intersecciones a nivel, la variabilidad en las condiciones de la vía, y la mezcla de vehículos de distintas características y velocidades."
+    },
+    {
+        "enunciado": "Un agente se dirige hacia su vehículo balanceando una luz roja, ¿qué debe hacer?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Detener el vehículo."
+            },
+            {
+                "id": "b",
+                "texto": "Circularé con precaución porque hay algún peligro."
+            },
+            {
+                "id": "c",
+                "texto": "Cambiar de dirección."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/movlweaf.png",
+        "explicacion": "Cuando observemos que un Agente de la Circulación realiza una señal balanceando una luz roja o amarilla, significará que todos los usuarios que circulen por la vía en la que se encuentre, y que se dirijan hacia dicha luz, deberán detener sus vehículos hasta que reciban otra orden."
+    },
+    {
+        "enunciado": "Si encuentra esta señal a la entrada de una vía debe saber...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Que es una vía reservada para ciclos y ciclomotores."
+            },
+            {
+                "id": "b",
+                "texto": "Que está prohibida la circulación de ciclomotores."
+            },
+            {
+                "id": "c",
+                "texto": "Que está prohibida su utilización para todos aquellos usuarios que no sean conductores de ciclomotores."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/mcpf5sjh.png",
+        "explicacion": "La señal R-407b indica que la vía está reservada para ciclomotores. Por lo tanto, está prohibida su utilización para todos aquellos usuarios que no sean conductores de ciclomotores[^1^][1]."
+    },
+    {
+        "enunciado": "El arcén de esta carretera mide menos de 1.5 metros. ¿A qué velocidad como máximo puede adelantar a este turismo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "a 90 km/hora."
+            },
+            {
+                "id": "b",
+                "texto": "a 110 km/hora."
+            },
+            {
+                "id": "c",
+                "texto": "a 120 km/hora."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/gobdooth.png",
+        "explicacion": "Cuando el arcén de una carretera mide menos de 1.5 metros, la velocidad máxima a la que se puede adelantar, según la normativa de tráfico en España, es de 90 km/hora para turismos y motocicletas en carreteras convencionales, y no se podra incrementar para adelantar."
+    },
+    {
+        "enunciado": "La primera velocidad debe utilizarse...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sólo para subir pendientes muy pronunciadas."
+            },
+            {
+                "id": "b",
+                "texto": "Lo mínimo posible."
+            },
+            {
+                "id": "c",
+                "texto": "El mayor tiempo posible."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explicacion": "La primera velocidad en un vehículo se debe utilizar lo mínimo posible, generalmente para iniciar la marcha o en situaciones de baja velocidad como maniobras de aparcamiento o al subir pendientes muy pronunciadas. No es aconsejable usarla durante un tiempo prolongado ya que está diseñada para proporcionar el máximo para motor y no para mantener velocidades."
+    },
+    {
+        "enunciado": "Los accidentes que sufren los jóvenes suelen asociarse a...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "La falta de coordinación al volante."
+            },
+            {
+                "id": "b",
+                "texto": "El consumo de alcohol y drogas y la prudencia al volante."
+            },
+            {
+                "id": "c",
+                "texto": "La falta de experiencia al volante y al consumo de alcohol."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explicacion": "Los accidentes de tráfico que involucran a jóvenes conductores suelen estar relacionados con la falta de experiencia al volante y el consumo de alcohol. Estos factores pueden afectar significativamente la capacidad de conducción, aumentando el riesgo de accidentes."
+    },
+    {
+        "enunciado": "En la conducción, el uso de teléfonos móviles manos libres...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Está prohibido."
+            },
+            {
+                "id": "b",
+                "texto": "Se permite, pero debe saberse que también puede producir distracciones."
+            },
+            {
+                "id": "c",
+                "texto": "Se permite, utilizando auriculares."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explicacion": "El uso de teléfonos móviles con sistema manos libres se permite durante la conducción, pero es importante ser consciente de que aún así puede producir distracciones. Es fundamental mantener la atención en la carretera en todo momento para garantizar la seguridad."
+    },
+    {
+        "enunciado": "En un paso estrecho, esta señal, ¿Qué nos indica?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Que tengo preferencia de paso."
+            },
+            {
+                "id": "b",
+                "texto": "Que tiene preferencia los vehículos que vienen en sentido contrario."
+            },
+            {
+                "id": "c",
+                "texto": "Que tiene preferencia el vehículo que se encuentre más próximo a la señal."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/p3a5zydm.png",
+        "explicacion": "La señal R-5 indica la prohibición de entrada en un paso estrecho mientras no sea posible atravesarlo sin obligar a los vehículos que circulen en sentido contrario a detenerse. Por lo tanto, tiene preferencia de paso los vehículos que vienen en sentido contrario."
+    },
+    {
+        "enunciado": "En este cruce, ¿qué indican las flechas del carril izquierdo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Me informan, no me obligan."
+            },
+            {
+                "id": "b",
+                "texto": "Me obligan a girar a la izquierda."
+            },
+            {
+                "id": "c",
+                "texto": "Me obligan a girar a la izquierda o continuar recto."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/wv9rsv21.png",
+        "explication": "Las flechas de selección de carril nos indican la dirección que tenemos que tomar obligatoriamente desde ese carril. En este caso seguir de frete o girar a la izquierda."
+    },
+    {
+        "enunciado": "¿Qué obligación tiene si observa que otro vehículo tiene el propósito de adelantarle utilizando el carril izquierdo contiguo al suyo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Ceñirse al borde derecho de la calzada."
+            },
+            {
+                "id": "b",
+                "texto": "Disminuir la velocidad."
+            },
+            {
+                "id": "c",
+                "texto": "Indicarle con el intermitente derecho que puede adelantar con seguridad."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/uskqhz9v.png",
+        "explication": "Cuando otro vehículo tiene la intención de adelantar, el conductor debe ceñirse al borde derecho de la calzada para facilitar la maniobra de adelantamiento. No se debe disminuir la velocidad de forma innecesaria ni indicar con el intermitente derecho que puede adelantar con seguridad, ya que esto último podría confundirse con una intención de cambiar de dirección hacia la derecha."
+    },
+    {
+        "enunciado": "Si una motocicleta acaba de pasar la primera revisión ITV, deberá pasar la siguiente dentro de...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "2 años."
+            },
+            {
+                "id": "b",
+                "texto": "4 años."
+            },
+            {
+                "id": "c",
+                "texto": "6 meses."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/r1vfm1nq.png",
+        "explication": "Después de que una motocicleta pasa su primera revisión ITV, la siguiente debe realizarse dentro de los 2 años siguientes. Esta periodicidad se aplica a partir del cuarto año de la primera matriculación de la motocicleta."
+    },
+    {
+        "enunciado": "La cantidad de alcohol en sangre, ¿cuándo empieza a bajar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Nada más dejar de beber."
+            },
+            {
+                "id": "b",
+                "texto": "Una hora después de dejar de beber."
+            },
+            {
+                "id": "c",
+                "texto": "Quince minutos después de dejar de beber."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "La cantidad de alcohol en sangre comienza a disminuir aproximadamente una hora después de la última bebida. El hígado es el órgano encargado de metabolizar el alcohol y eliminarlo del cuerpo. Este proceso puede variar de una persona a otra y depende de varios factores."
+    },
+    {
+        "enunciado": "El estrés, ¿qué efectos puede tener sobre el conductor?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Que tome decisiones más lentas y cometa menos errores."
+            },
+            {
+                "id": "b",
+                "texto": "Que aparezcan más distracciones al volante."
+            },
+            {
+                "id": "c",
+                "texto": "Que tome decisiones más rápidas y cometa menos errores."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "El estrés puede afectar negativamente la conducción de varias maneras, incluyendo una mayor propensión a la distracción y dificultad para concentrarse. Los conductores estresados pueden tener tiempos de reacción más lentos y una mayor tendencia a tomar riesgos innecesarios, lo que puede llevar a una conducción imprudente y peligrosa."
+    },
+    {
+        "enunciado": "Se considera que un estacionamiento obstaculiza gravemente la circulación cuando se realiza en...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Doble fila sin conductor."
+            },
+            {
+                "id": "b",
+                "texto": "Las proximidades de un paso de peatones."
+            },
+            {
+                "id": "c",
+                "texto": "Doble fila, con o sin conductor, por tiempo superior a dos minutos."
+            }
+        ],
+        "respuesta_correcta": "id de la respuesta correcta aquí",
+        "img": "",
+        "explication": "Según el artículo 91 del Reglamento General de Circulación, indica que uno de los supuestos en los cuales un vehículo estacionado obstaculizará gravemente la circulación de la vía es cuando estacione en doble fila y el conductor se aleje del vehículo."
+    },
+    {
+        "enunciado": "En este caso, ¿qué vehículo pasará primero?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "El rojo."
+            },
+            {
+                "id": "b",
+                "texto": "El azul."
+            },
+            {
+                "id": "c",
+                "texto": "El amarillo."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/g351m1mg.png",
+        "explication": "En una intersección sin señalizar como la que encontramos en la imagen, el Reglamento de Circulación nos dice que tendrá prioridad de paso el vehículo que tenga su derecha libre, en este caso el turismo amarillo o, lo que es lo mismo, se deberá ceder el paso al vehículo que aparezca por nuestra derecha. Así pues el turismo azul cederá el paso al rojo, y el rojo al turismo amarillo, que será el que pase en primer lugar."
+    },
+    {
+        "enunciado": "Durmiendo un poco, ¿conseguiremos eliminar más rápido el alcohol?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, si dormimos al menos dos horas."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, si dormimos al menos 1 hora."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "",
+        "explication": "El alcohol se elimina más despacio durante el sueño. Por lo tanto, dormir no acelera el proceso de eliminación del alcohol; de hecho, el cuerpo procesa y elimina el alcohol de manera más eficiente cuando estamos despiertos y activos."
+    },
+    {
+        "enunciado": "¿Cuándo podremos utilizar la luz antiniebla delantera?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Siempre que circulemos por la noche."
+            },
+            {
+                "id": "b",
+                "texto": "Siempre entre la puesta y la salida del sol, para complementar a las otras luces."
+            },
+            {
+                "id": "c",
+                "texto": "Cuando existan condiciones metereológicas que disminuyan sensiblemente la visibilidad."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "La luz antiniebla delantera se debe utilizar cuando las condiciones meteorológicas o ambientales disminuyan sensiblemente la visibilidad, como en caso de niebla, lluvia intensa, nevada, nubes de humo o de polvo o cualquier otra circunstancia análoga. No es obligatorio su uso por la noche o entre la puesta y la salida del sol a menos que se presenten estas condiciones."
+    },
+    {
+        "enunciado": "El efecto submarino se produce especialmente por...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No existe dicho efecto."
+            },
+            {
+                "id": "b",
+                "texto": "Por un mal uso del cinturón o del asiento del vehículo."
+            },
+            {
+                "id": "c",
+                "texto": "Por el consumo de alcohol y drogas."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "El efecto submarino se produce cuando el cinturón de seguridad no se coloca correctamente y el cuerpo se desliza por debajo de la banda abdominal del cinturón durante un frenazo o colisión, lo que puede causar lesiones graves. Para evitarlo, es importante ajustar bien el cinturón y el asiento."
+    },
+    {
+        "enunciado": "¿De qué advierte la señal luminosa de color amarillo auto, visible desde todas las direcciones, que lleva el tractor agrícola en su parte superior?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "De que no puede circular a una velocidad superior a 30 Km/h."
+            },
+            {
+                "id": "b",
+                "texto": "De su presencia en la vía o en sus inmediaciones."
+            },
+            {
+                "id": "c",
+                "texto": "De que circula en servicio urgente."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/fu63r8zw.png",
+        "explication": "La señal luminosa de color amarillo auto en los tractores agrícolas indica su presencia en la vía para alertar al resto de usuarios. Esta señal es obligatoria y debe ser visible desde todas las direcciones a una distancia de 100 metros, según la normativa de tráfico."
+    },
+    {
+        "enunciado": "En los pasos para peatones y en sus proximidades, ¿está permitido adelantar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, nunca."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, siempre que no haya peatones cruzando."
+            },
+            {
+                "id": "c",
+                "texto": "Sí; a velocidad reducida, para poder detener el vehículo en caso de peligro de atropello."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/z7zuakxj.png",
+        "explication": "Según el Reglamento General de Circulación, está prohibido adelantar en los pasos para peatones y en sus proximidades como norma general. Sin embargo, excepcionalmente se permite adelantar a cualquier vehículo en un paso para peatones cuando se realiza a una velocidad tan reducida que permita detenerse a tiempo si surge algún peligro de atropello."
+    },
+    {
+        "enunciado": "El vehículo que se observa en la fotografía, ¿está correctamente estacionado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, siempre que el estacionamiento dure menos de dos minutos."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, porque se encuentra fuera de la zona transitable del arcén."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/obv84f0i.png",
+        "explication": "El Reglamento de Circulación indica que la parada o el estacionamiento de un vehículo en vías interurbanas deberá hacerse siempre fuera de la calzada, en el lado derecho de la misma y dejando libre la parte transitable del arcén. Así pues estará prohibido parar o estacionar en la parte transitable del arcén."
+    },
+    {
+        "enunciado": "En una intersección en la que tiene prioridad, ¿debe ceder el paso a un vehículo prioritario que circule en servicio de urgencia?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, ya que circula por una calzada con prioridad."
+            },
+            {
+                "id": "b",
+                "texto": "Sí."
+            },
+            {
+                "id": "c",
+                "texto": "Solo si el vehículo prioritario utiliza conjuntamente las luces y las señales ópticas."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "Según el Reglamento General de Circulación, los vehículos prioritarios tienen prioridad de paso sobre los demás vehículos y otros usuarios de la vía cuando se hallen en servicio de urgencia, es decir, cuando lleven encendidas las señales luminosas (amarillas o azules) y las acústicas, o solo las luminosas. Por lo tanto, incluso si usted tiene prioridad en una intersección, debe ceder el paso a un vehículo prioritario en servicio de urgencia."
+    },
+    {
+        "enunciado": "El conductor de un ciclomotor no está obligado a utilizar el casco de protección...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "En vías urbanas."
+            },
+            {
+                "id": "b",
+                "texto": "Cuando el ciclomotor disponga de estructura de protección y cinturón de seguridad."
+            },
+            {
+                "id": "c",
+                "texto": "En Travesías."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "Los conductores de ciclomotores deben utilizar adecuadamente un casco homologado tanto en vías urbanas como interurbanas. La excepción a esta regla es cuando el ciclomotor cuenta con estructura de protección y está dotado de cinturón de seguridad; en este caso, el conductor está exento de utilizar el casco de protección."
+    },
+    {
+        "enunciado": "Esta señal indica peligro por la proximidad de un tramo...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Por donde sólo pueden circular turismos."
+            },
+            {
+                "id": "b",
+                "texto": "Con atascos o retenciones."
+            },
+            {
+                "id": "c",
+                "texto": "Donde no es obligatorio guardar la distancia de seguridad."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/ig98705t.png",
+        "explication": "La señal P-31 advierte sobre la proximidad de un tramo donde la circulación se ve severamente reducida, detenida o dificultada por gran congestión de tráfico. Su símbolo son tres autos uno detrás de otro en color negro con un fondo color blanco dentro de un triángulo color rojo[^1^][1]."
+    },
+    {
+        "enunciado": "Acaba de comprar un turismo nuevo; ¿cuándo debe presentarlo a la primera inspección técnica reglamentaria?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A los cuatro años, a contar desde la fecha de compra."
+            },
+            {
+                "id": "b",
+                "texto": "A los dos años, a contar desde la fecha de matriculación."
+            },
+            {
+                "id": "c",
+                "texto": "A los cuatro años, a contar desde la fecha de matriculación."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "Los turismos nuevos deben pasar su primera revisión ITV a los cuatro años de su matriculación. Tras esta primera revisión, las sucesivas se harán cada dos años hasta llegar a los 10 años de antigüedad, momento en el que la revisión pasará a ser anual[^1^][1][^2^][2][^3^][3]."
+    },
+
+
+
+
+    {
+        "enunciado": "En las autovías, se permite circular...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A vehículos de tracción animal."
+            },
+            {
+                "id": "b",
+                "texto": "A peatones."
+            },
+            {
+                "id": "c",
+                "texto": "Por los arcenes, a conductores de bicicletas mayores de 14 años, salvo que se prohíba por la señal."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/9umsern4.png",
+        "explication": "Los conductores de bicicleta mayores de 14 años, como hemos dicho anteriormente, podrán circular por el arcén de autovías (nunca en autopistas) siempre que no les esté prohibido mediante una señal, y siempre sin invadir la calzada."
+    },
+    {
+        "enunciado": "Uno de los efectos que pueden producir los ansiolíticos es...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "La disminución de la sensibilidad al deslumbramiento."
+            },
+            {
+                "id": "b",
+                "texto": "La aparición de periodos de somnolencia."
+            },
+            {
+                "id": "c",
+                "texto": "El aumento de la agudeza visual."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "Entre los diferentes efectos que la ingesta de ansiolíticos provocará en el conductor de un vehículo encontramos la aparición de periodos de somnolencia, una disminución de la agudeza visual y estados de confusión o aturdimiento en el conductor."
+    },
+    {
+        "enunciado": "Si se coloca la cinta abdominal del cinturón de seguridad sobre el abdomen...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Puede provocar graves lesiones internas durante un accidente."
+            },
+            {
+                "id": "b",
+                "texto": "La conducción es más cómoda y segura."
+            },
+            {
+                "id": "c",
+                "texto": "El cinturón de seguridad funciona con eficacia."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/aucb6zto.png",
+        "explication": "Colocar la cinta abdominal del cinturón de seguridad sobre el abdomen puede provocar graves lesiones internas durante un accidente. Es importante ajustar correctamente el cinturón para que funcione de manera eficaz y proteja al ocupante en caso de colisión."
+    },
+    {
+        "enunciado": "El alumbrado, ¿se considera un sistema de seguridad del vehículo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, únicamente sirve para ver y ser visto."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, de seguridad activa."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, de seguridad pasiva."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "El alumbrado se considera un sistema de seguridad activa del vehículo. Su función principal es permitir ver y ser visto en condiciones de baja visibilidad, lo que ayuda a prevenir accidentes y es esencial para la seguridad vial."
+    },
+    {
+        "enunciado": "Conduce un turismo con un remolque de un solo eje, ¿le afecta esta señal vertical?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, porque lleva un remolque de un eje."
+            },
+            {
+                "id": "c",
+                "texto": "No, salvo que la M.M.A del remolque supere la cifra indicada en la señal."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/19wxi2qa.png",
+        "explication": "La señal R-112 prohíbe la entrada a vehículos que arrastren un remolque de 2 ó mas ejes, a excepción de los que sean semirremolques o remolques de un solo eje. Si la señal incluye una cifra que indica el peso, la restricción solo afecta a los vehículos cuyo remolque exceda ese peso máximo permitido."
+    },
+    {
+        "enunciado": "Los vehículos tienen prioridad sobre los peatones, excepto cuando...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Se encuentren en la proximidad de un paso para peatones."
+            },
+            {
+                "id": "b",
+                "texto": "Los peatones se aproximen por la derecha."
+            },
+            {
+                "id": "c",
+                "texto": "Vayan a girar en una intersección para entrar en otra vía y haya peatones cruzándola."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "El Reglamento de Circulación establece en el artículo 65 que los conductores tienen prioridad de paso para sus vehículos, respecto de los peatones, excepto cuando vayan a girar con su vehículo para entrar en otra vía y hayan peatones cruzándola, aunque no exista paso de peatones señalizado para estos. En ese caso serán los peatones los que tengan la prioridad."
+    },
+    {
+        "enunciado": "Entre las conductas de riesgo más comunes que cometen los peatones está...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Cruzar la vía de manera reglamentaria."
+            },
+            {
+                "id": "b",
+                "texto": "Respetar los semáforos pero no los pasos de peatones."
+            },
+            {
+                "id": "c",
+                "texto": "No situarse en las calzadas o en los arcenes correctamente."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/ljxiphtc.png",
+        "explication": "Una de las conductas de riesgo más comunes que cometen los peatones es no situarse correctamente en las calzadas o en los arcenes. Esto puede aumentar el peligro tanto para ellos como para los conductores de vehículos. Los peatones deberán circular siempre por el centro de las aceras, ni muy pegados al borde de la calzada, para evitar ser atropellados por algún vehículo ni muy pegados a los edificios."
+    },
+    {
+        "enunciado": "Todo conductor de un vehículo que circule detrás de otro está obligado a dejar entre ambos, como mínimo...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Una distancia de 50 metros."
+            },
+            {
+                "id": "b",
+                "texto": "Un espacio libre que le permita detenerse, en caso de frenado brusco, sin colisionar con él."
+            },
+            {
+                "id": "c",
+                "texto": "Una distancia que permita a los vehículos que le sigan adelantarlo con seguridad."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "Todo conductor debe mantener una distancia de seguridad con el vehículo que circula delante. Esta distancia debe ser suficiente para detenerse sin colisionar en caso de frenado brusco. Es fundamental para prevenir accidentes y garantizar la seguridad vial."
+    },
+    {
+        "enunciado": "¿De qué depende la distancia de detención?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "De la velocidad, solamente."
+            },
+            {
+                "id": "b",
+                "texto": "De la velocidad, del tiempo de reacción y de la distancia de frenado."
+            },
+            {
+                "id": "c",
+                "texto": "Del tipo de vehículo, solamente."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/ozgi4nio.png",
+        "explication": "La distancia de detención depende de varios factores, incluyendo la velocidad del vehículo, el tiempo de reacción del conductor y la distancia de frenado. Estos factores se combinan para determinar cuánto tiempo y espacio necesitará un vehículo para detenerse completamente en una situación dada."
+    },
+    {
+        "enunciado": "La carga transportada en una motocicleta de anchura inferior a 1 metro, ¿puede sobresalir por la parte delantera o trasera?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Por la parte delantera no, por la trasera sí, hasta 0.25 metros."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, hasta 0.50 metros tanto por la parte delantera como por la trasera."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, pero sólo por la parte trasera hasta 0.50 metros."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/cujqpqsd.png",
+        "explicacion": "En los vehículos de anchura inferior a un metro como pueden ser las motocicletas o los ciclomotores, la carga que transporten podrá sobresalir longitudinalmente un máximo de 0,25 metros por su parte trasera y absolutamente nada por la parte delantera."
+    },
+    {
+        "enunciado": "Al aumentar la velocidad...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "disminuye el tiempo de reacción."
+            },
+            {
+                "id": "b",
+                "texto": "aumenta la distancia de reacción."
+            },
+            {
+                "id": "c",
+                "texto": "aumenta la capacidad de reacción."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/grjute0j.png",
+        "explicacion": "Al aumentar la velocidad, la distancia de reacción aumenta. Esto se debe a que a mayor velocidad, el conductor tiene menos tiempo para percibir y procesar la información, lo que resulta en una mayor distancia recorrida antes de iniciar la maniobra de frenado. La velocidad excesiva también puede provocar el efecto túnel, reduciendo la capacidad de anticipación y aumentando la probabilidad de distracciones."
+    },
+    {
+        "enunciado": "Las distracciones pueden ocurrir cuando consigue desviar su atención algo de...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Dentro y fuera del vehículo."
+            },
+            {
+                "id": "b",
+                "texto": "Dentro del vehículo, solamente."
+            },
+            {
+                "id": "c",
+                "texto": "Fuera del vehículo, solamente."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "Las distracciones al conducir pueden ser causadas tanto por factores internos dentro del vehículo como por factores externos fuera de él. Esto incluye el manejo de dispositivos electrónicos como la radio o el GPS, hablar con pasajeros, comer o beber, así como factores externos como la publicidad, los accidentes en la carretera y el entorno en general. Mantener un nivel adecuado de atención es crucial para evitar accidentes."
+    },
+    {
+        "enunciado": "Circulando con lluvia muy intensa, ¿se pueden utilizar las luces antiniebla delanteras y traseras?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, pero sólo la luz antiniebla delantera."
+            },
+            {
+                "id": "b",
+                "texto": "No, porque sólo se pueden utilizar con niebla."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, y además es obligatorio utilizar la luz antiniebla trasera."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/j03grzao.png",
+        "explicacion": "El uso de las luces antiniebla está regulado para mejorar la visibilidad en condiciones meteorológicas adversas. Se permite y es recomendable utilizar tanto las luces antiniebla delanteras como las traseras durante la lluvia muy intensa. Las luces antiniebla traseras son obligatorias y deben utilizarse solo cuando la niebla sea muy densa y la visibilidad pueda verse reducida a una veintena de metros, así como en condiciones de lluvia muy intensa para advertir a otros vehículos de nuestra presencia."
+    },
+    {
+        "enunciado": "Si la velocidad máxima que alcanza una motocicleta es inferior a 100 kilómetros por hora, ¿cuántos retrovisores debe llevar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Uno obligatorio en el lado derecho y opcionalmente otro en el lado izquierdo."
+            },
+            {
+                "id": "b",
+                "texto": "Dos, uno a cada lado de la motocicleta."
+            },
+            {
+                "id": "c",
+                "texto": "Uno obligatorio en el lado izquierdo, y opcionalmente otro en el lado derecho."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explicacion": "En España, el uso de los retrovisores en las motocicletas está regulado según la velocidad máxima alcanzable por el vehículo. Si la motocicleta puede superar los **100 km/h**, la normativa indica que debe llevar **dos retrovisores**: uno en el lado izquierdo y otro en el lado derecho. Sin embargo, si la velocidad máxima es **inferior a 100 km/h**, solo es obligatorio llevar el retrovisor izquierdo, y el derecho es opcional. Los ciclomotores, que no pueden superar los **45 km/h**, solo están obligados a llevar el retrovisor derecho, aunque generalmente vienen de serie con ambos espejos. Es importante asegurarse de que los retrovisores sean homologados y cumplan con las dimensiones y características establecidas para garantizar la seguridad y cumplir con la normativa."
+    },
+    {
+        "enunciado": "En una zona señalizada para carga y descarga, ¿está permitido estacionar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, en cualquier caso."
+            },
+            {
+                "id": "b",
+                "texto": "No."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, pero sólo fuera de las horas de utilización."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explicacion": "En España, el uso de las zonas de carga y descarga está regulado por las ordenanzas municipales. Las zonas de carga y descarga suelen estar señalizadas con una o dos señales verticales de prohibición (R-307 y R-308) y, en ocasiones, con pintura amarilla en zigzag en el suelo. Además de acotar la zona de aparcamiento temporal, también se da otra información, como el horario habilitado para realizar las operaciones de carga y descarga o el tipo de vehículos que pueden utilizarla. Por ejemplo, en una zona de carga y descarga, la señal podría indicar: 'prohibido aparcar y estacionar en días laborables de 8 a 14 horas y de 16:30 a 19 horas, excepto carga y descarga'. Esto significa que ningún turismo podrá realizar ninguna parada o estacionamiento en esa zona durante ese horario. Sólo podrán detenerse aquellos vehículos con tarjeta de transporte que estén habilitados para realizar la carga y descarga."
+    },
+    {
+        "enunciado": "En este tramo de vía en el que está prohibido adelantar, ¿puede realizar un cambio de sentido?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, salvo que lo permita la señalización."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, ya que solo se prohíbe el adelantamiento."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, siempre que exista espacio suficiente y pueda realizarlo sin peligro."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/1kpq7tgs.png",
+        "explicacion": "En España, el Reglamento General de Circulación establece que está prohibido adelantar donde no sea posible hacer la maniobra de forma segura. Sin embargo, existe una excepción para realizar un cambio de sentido en una vía donde está prohibido adelantar. Para que esta maniobra sea legal, deben cumplirse ciertas condiciones:\n\n1. **Señalización**: Si existe una señal específica que autorice expresamente el cambio de sentido, entonces está permitido.\n2. **Visibilidad y espacio**: Debe haber suficiente visibilidad y espacio para realizar la maniobra sin poner en riesgo la seguridad de otros usuarios de la vía.\n3. **No obstaculizar el tráfico contrario**: El conductor no debe obstaculizar el tráfico en sentido contrario y debe realizar la maniobra de manera rápida y eficiente.\n\nEs importante recordar que esta excepción no debe confundirse con el giro en 'U', que está expresamente prohibido en algunas vías. Además, esta maniobra solo está permitida en vías interurbanas y siempre que se cumplan las condiciones mencionadas anteriormente. Respetar estas normas garantiza la seguridad de todos los usuarios de la vía."
+    },
+    {
+        "enunciado": "El conductor de una motocicleta, ¿está obligado a utilizar casco de protección?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, excepto en las motocicletas con sidecar."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, excepto cuando la motocicleta tenga estructura de autoprotección, lleve cinturón de seguridad y conste en la tarjeta de ITV."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, en todas las motocicletas."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explicacion": "El conductor y acompañantes de una motocicleta únicamente estarán obligados a llevar casco de seguridad, cuando dicha motocicleta no cuente con estructura de autoprotección o no lleve cinturones de seguridad para todos los pasajeros.Además de ello, la excepción de llevar casco de seguridad deberá estar indicada en la documentación ITV de la motocicleta para ser válida."
+    },
+    {
+        "enunciado": "Arrojar un cigarro por la ventanilla de un turismo, ¿puede suponer una infracción?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, y además conlleva una pérdida de puntos."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, pero no conlleva pérdida de puntos."
+            },
+            {
+                "id": "c",
+                "texto": "No, pero no se debe hacer."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "Arrojar un cigarro por la ventanilla de un vehículo en España es considerado una infracción muy grave. Esta acción está castigada con una multa de hasta 500 euros y la retirada de seis puntos del carnet de conducir. La gravedad de esta infracción se debe al riesgo de provocar incendios, especialmente en épocas de alto riesgo de incendios forestales, y también porque puede representar un peligro para otros usuarios de la vía."
+    },
+    {
+        "enunciado": "En esta curva de visibilidad reducida, ¿está permitido cambiar de sentido de la marcha?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, siempre que no se obstaculice a los vehículos que circulen detrás."
+            },
+            {
+                "id": "b",
+                "texto": "No, en ningún caso."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, porque no hay señal que lo prohiba."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/utyzx30e.png",
+        "explicacion": "El Reglamento de Circulación indica que está terminantemente prohibido adelantar o realizar un cambio de sentido en las curvas y cambios de rasante de visibilidad reducida, debido al alto riesgo de colisión contra los vehículos que circulen en sentido contrario. Esta normativa busca prevenir accidentes y garantizar la seguridad de todos los usuarios de la vía."
+    },
+    {
+        "enunciado": "La señal es la R-500: ¿Qué indica esta señal?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Fin de prohibido adelantar solamente."
+            },
+            {
+                "id": "b",
+                "texto": "Fin de las prohibiciones de todas las normas de circulación."
+            },
+            {
+                "id": "c",
+                "texto": "Fin de las prohibiciones de las señales anteriores."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explicacion": "La señal R-500 indica el lugar desde el cual todas las prohibiciones específicas indicadas por anteriores señales de prohibición para vehículos en movimiento quedan nulas. En otras palabras, esta señal marca el **fin de las prohibiciones específicas** establecidas previamente. Por lo tanto, se refiere al fin de la prohibición de adelantar, pero no implica el fin de todas las normas de circulación ni de las prohibiciones de todas las señales[^1^][1]."
+    },
+    {
+        "enunciado": "¿Es obligatorio emplear los dispositivos de preseñalización de peligro para advertir la presencia de un turismo averiado en la calzada?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "Sólo si la visibilidad es insuficiente."
+            },
+            {
+                "id": "c",
+                "texto": "Sí."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/om6hfdg8.png",
+        "explicacion": "Según la legislación vial vigente en España, **es obligatorio** emplear los dispositivos de preseñalización de peligro para advertir la presencia de un turismo averiado en la calzada. Estos dispositivos, como los triángulos o la nueva señal V16, son fundamentales para alertar a otros conductores sobre situaciones de emergencia y garantizar la seguridad en la vía."
+    },
+    {
+        "enunciado": "Las condiciones psicofísicas del conductor, ¿pueden influir en la capacidad de reacción?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Depende de la situación."
+            },
+            {
+                "id": "b",
+                "texto": "Sí."
+            },
+            {
+                "id": "c",
+                "texto": "No."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explicacion": "Las condiciones psicofísicas del conductor pueden influir significativamente en su capacidad de reacción al volante. Factores como el estrés, la fatiga, la falta de sueño, el consumo de alcohol o el padecimiento de enfermedades pueden afectar negativamente la capacidad de reacción ante situaciones imprevistas en la carretera. Por lo tanto, es fundamental que los conductores estén en óptimas condiciones físicas y mentales para garantizar una conducción segura."
+    },
+    {
+        "enunciado": "Para facilitar el adelantamiento, ¿qué debe hacer el vehículo adelantado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Apartarse al arcén."
+            },
+            {
+                "id": "b",
+                "texto": "Ceñirse al borde derecho de la calzada."
+            },
+            {
+                "id": "c",
+                "texto": "Circular por el centro de su carril."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explicacion": "Para facilitar el adelantamiento, el vehículo adelantado debe **ceñirse al borde derecho de la calzada**. De esta manera, permite al vehículo que adelanta tener suficiente espacio para realizar la maniobra de forma segura y sin obstáculos. Es importante que todos los conductores sigan esta norma para garantizar la seguridad en la carretera."
+    },
+    {
+        "enunciado": "¿Está permitido advertir con el brazo que va a efectuar una maniobra?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, cuando la señal sea perceptible para los demás usuarios."
+            },
+            {
+                "id": "b",
+                "texto": "No, debe advertirlo también con los intermitentes."
+            },
+            {
+                "id": "c",
+                "texto": "No, porque no se deben sacar los brazos fuera del turismo."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "Está permitido que los conductores utilicen señales manuales para advertir que van a efectuar una maniobra, siempre y cuando estas señales sean claramente perceptibles para los demás usuarios de la vía. Sin embargo, estas señales manuales no reemplazan la obligación de usar los intermitentes, sino que deben usarse como un complemento a las señales luminosas, especialmente en situaciones donde los intermitentes puedan no ser visibles."
+    },
+    {
+        "enunciado": "La carga de un turismo, ¿cuánto puede sobresalir por detrás?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "1/3 de la longitud del vehículo."
+            },
+            {
+                "id": "b",
+                "texto": "El 15% de la longitud del vehículo."
+            },
+            {
+                "id": "c",
+                "texto": "El 20% de la longitud del vehículo."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/carga-sobresaliente.png",
+        "explicacion": "Según la normativa vigente en España, la carga de un turismo puede sobresalir por detrás, pero siempre y cuando no sobrepase en más de un 10% de su longitud total y esté debidamente señalizada. Además, la carga no debe impedir la visibilidad de las luces traseras ni la matrícula del vehículo."
+    },
+    {
+        "enunciado": "La línea discontinua, ¿qué indica?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Un carril reversible."
+            },
+            {
+                "id": "b",
+                "texto": "Un carril especial."
+            },
+            {
+                "id": "c",
+                "texto": "La cercanía a una línea longitudinal continua."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/2b78bkk7.png",
+        "explicacion": "Las líneas discontinuas en las carreteras tienen varios propósitos principales: Delimitar Carriles: Su función más común es delimitar los carriles dentro de la calzada. Esto ayuda a los conductores a saber dónde se encuentran los límites de su carril y facilita la circulación ordenada y segura. Indicar Carriles Especiales: Es el caso de la imagen. Las líneas discontinuas pueden indicar la existencia de un carril especial, como puede ser un carril reservado para determinados vehículos, carriles de entrada o salida, entre otros. Anunciar Cambios en la Calzada: Otra función de estas líneas es anunciar al conductor que se aproxima a una línea longitudinal continua o a un tramo de la carretera que presenta un riesgo especial."
+    },
+    {
+        "enunciado": "En caso de incendio en el interior de un túnel o paso inferior, el conductor del vehículo dejará...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "la llave puesta y las puertas abiertas."
+            },
+            {
+                "id": "b",
+                "texto": "el motor apagado y las puertas cerradas."
+            },
+            {
+                "id": "c",
+                "texto": "el motor encendido y las puertas abiertas."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "",
+        "explication": "En caso de incendio en el interior de un túnel o paso inferior, el conductor debe dejar las puertas abiertas y la llave puesta en el vehículo. Esto facilita el acceso a los servicios de emergencia. Además, debe aproximar el vehículo lo más posible hacia la derecha para no obstruir el paso a los vehículos de emergencia, apagar el motor, y junto con los ocupantes, abandonar el vehículo rápidamente, dirigiéndose al refugio o salida más cercano, en sentido contrario al fuego, evitando transitar por la calzada si hay zonas seguras excluidas a la circulación de vehículos."
+    },
+    {
+        "enunciado": "Las luces de los semáforos con la silueta de un ciclo, afectan...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A los ciclos solamente."
+            },
+            {
+                "id": "b",
+                "texto": "A ciclomotores solamente."
+            },
+            {
+                "id": "c",
+                "texto": "Exclusivamente a ciclos y ciclomotores."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/2p6m93nj.png",
+        "explication": "Las luces de los semáforos que muestran la silueta de un ciclo están destinadas exclusivamente a regular el tráfico de ciclos y ciclomotores. Esto significa que las señales de estos semáforos deben ser obedecidas solamente por los usuarios de bicicletas y ciclomotores, y no se aplican a otros tipos de vehículos como automóviles, motocicletas, peatones, etc."
+    },
+    {
+        "enunciado": "¿Qué puede favorecer la aparición de fatiga?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Recorrer una vía con el firme bien conservado."
+            },
+            {
+                "id": "b",
+                "texto": "Circular con el vehículo en perfecto estado."
+            },
+            {
+                "id": "c",
+                "texto": "El mal diseño del asiento o de otros elementos interiores del vehículo."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explication": "Se considera que circular con una temperatura inadecuada en el interior del vehículo (demasiado calor o frío), una mala ventilación, una iluminación deficiente, un ruido molesto o exceso de vibraciones e incluso un asiento incómodo son factores que afectan al estado del conductor y aumentan el nivel de fatiga."
+    },
+    {
+        "enunciado": "Cuando sólo lo ocupe su conductor, ¿puede un turismo circular por un carril VAO?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, siempre que sea un vehículo no prioritario en servicio de urgencia."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, si el vehículo lleva la señal de minusválido."
+            },
+            {
+                "id": "c",
+                "texto": "No, nunca."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/nnwhual8.png",
+        "explication": "Un turismo solo puede circular por un carril VAO cuando lo ocupe su conductor si cumple ciertas condiciones específicas. Según la normativa de tráfico en España, estos carriles están destinados principalmente a vehículos de alta ocupación. Sin embargo, hay excepciones que permiten el uso del carril VAO a vehículos con un solo ocupante, como aquellos que disponen de la etiqueta 'Cero emisiones' o la declaración de vehículo para persona con movilidad reducida[^1^][5]."
+    },
+
+
+
+
+    {
+        "enunciado": "¿Qué debe hacer para avisar de que va a disminuir la velocidad de su vehículo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Pisar varias veces el pedal de freno."
+            },
+            {
+                "id": "b",
+                "texto": "Encender el intermitente izquierdo."
+            },
+            {
+                "id": "c",
+                "texto": "Encender las luces de posición."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explication": "Cuando necesites advertir tu intención de reducir considerablemente la velocidad del vehículo, debes pisar varias veces el pedal de freno. Esto activará las luces de freno, alertando al conductor que te sigue de que vas a frenar. Es importante hacerlo con suficiente antelación para que los demás conductores puedan reaccionar a tiempo y evitar colisiones."
+    },
+    {
+        "enunciado": "Durante una frenada de emergencia, si los amortiguadores están en mal estado:",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Podrás detener el vehículo con total seguridad, aunque puede que notes cómo las ruedas dan pequeños saltos sobre la calzada."
+            },
+            {
+                "id": "b",
+                "texto": "El ABS compensará este problema, consiguiendo detener el vehículo con total segueridad."
+            },
+            {
+                "id": "c",
+                "texto": "Puede que el ABS no funcione correctamente y la distancia de detención se alargue más de lo necesario."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explication": "Si los amortiguadores están en mal estado, pueden afectar negativamente la eficacia del sistema de frenos ABS. Los amortiguadores desgastados pueden provocar que las ruedas pierdan contacto con el suelo, lo que reduce la capacidad de frenado y puede hacer que el ABS no funcione de manera óptima. Esto puede resultar en un aumento de la distancia de frenado y un mayor riesgo de accidentes."
+    },
+    {
+        "enunciado": "En caso de ser obligatorio el uso de cadenas, ¿en qué ruedas deberán instalarse?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "En las ruedas motrices."
+            },
+            {
+                "id": "b",
+                "texto": "En las ruedas directrices."
+            },
+            {
+                "id": "c",
+                "texto": "En las ruedas delanteras siempre."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/v29af3ls.png",
+        "explication": "El uso de cadenas es obligatorio en ciertas situaciones, como cuando hay nieve o hielo en la carretera. Según la Dirección General de Tráfico (DGT), los conductores deben usar cadenas en las ruedas motrices (delanteras o traseras) cuando la nieve o el hielo cubren la calzada y afectan a la adherencia de los neumáticos."
+    },
+    {
+        "enunciado": "En condiciones de niebla espesa, deberá...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "circular por el arcén."
+            },
+            {
+                "id": "b",
+                "texto": "reducir la velocidad."
+            },
+            {
+                "id": "c",
+                "texto": "circular sólo con la luz antiniebla delantera encendida."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/sljsfuuf.png",
+        "explication": "En condiciones de niebla espesa, es fundamental reducir la velocidad para mantener la seguridad tanto propia como la de otros usuarios de la vía. Además, se deben encender las luces antiniebla correspondientes para mejorar la visibilidad y ser más visible para otros vehículos."
+    },
+    {
+        "enunciado": "La señal R-308C prohíbe...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "estacionar la primera quincena del mes."
+            },
+            {
+                "id": "b",
+                "texto": "estacionar durante un tiempo superior a 1 hora y 15 minutos."
+            },
+            {
+                "id": "c",
+                "texto": "parar y estacionar la primera quincena del mes."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/qc63nzlj.png",
+        "explication": "La señal R-308C indica la prohibición de estacionamiento en el lado de la calzada en que esté situada la señal, desde las 9 de la mañana del día 1 hasta las 9 de la mañana del día 16 de cada mes. Por lo tanto, la respuesta correcta es la opción 'a', que prohíbe estacionar la primera quincena del mes."
+    },
+    {
+        "enunciado": "En una vía se encuentra la señal R-405. ¿Qué vehículos tienen la obligación de circular por esta vía?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Todas las motocicletas."
+            },
+            {
+                "id": "b",
+                "texto": "Todos los vehículos de dos ruedas."
+            },
+            {
+                "id": "c",
+                "texto": "Las motocicletas sin sidecar."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/sei37vwd.png",
+        "explication": "La señal R-405 indica la obligación para los conductores de motocicletas sin sidecar de circular por la calzada a cuya entrada esté situada. Por lo tanto, esta señal afecta exclusivamente a las motocicletas de dos ruedas sin sidecar."
+    },
+    {
+        "enunciado": "¿Es necesario ponerse el chaleco reflectante para bajar a cambiar una rueda en una vía interurbana?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Únicamente en autopistas."
+            },
+            {
+                "id": "b",
+                "texto": "Sí."
+            },
+            {
+                "id": "c",
+                "texto": "No, porque es una parada menor a 10 minutos."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/bo8c8gpl.png",
+        "explication": "Es obligatorio llevar un chaleco reflectante que deberemos ponernos en caso de sufrir una avería en vía interurbana, como cambiar una rueda, cuando salgamos del vehículo tanto de día como de noche. Su uso será obligatorio para los conductores de turismos, autobuses, los destinados al transporte de mercancías y vehículos mixtos adaptables."
+    },
+    {
+        "enunciado": "Usar el teléfono móvil mientras se conduce, ¿puede ser peligroso?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, cuando la conversación dura poco tiempo."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, porque disminuye la atención necesaria para conducir."
+            },
+            {
+                "id": "c",
+                "texto": "No, cuando se utiliza un dispositivo de manos libres."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "Usar el teléfono móvil mientras se conduce es peligroso porque disminuye la atención necesaria para una conducción segura. Incluso con dispositivos de manos libres, la conversación puede distraer al conductor y aumentar el riesgo de accidentes."
+    },
+    {
+        "enunciado": "Los costes humanos de los accidentes de tráfico incluyen...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "El aumento de capacidad productiva."
+            },
+            {
+                "id": "b",
+                "texto": "El aumento de la capacidad de rehabilitación."
+            },
+            {
+                "id": "c",
+                "texto": "La pérdida de capacidad productiva."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/i8gd620n.png",
+        "explicacion": "Los accidentes de tráfico tienen un impacto significativo en la sociedad, incluyendo la pérdida de capacidad productiva debido a las lesiones, discapacidades o muertes de los individuos involucrados. Esto no solo afecta a las víctimas y sus familias, sino también a la economía en general, debido a la reducción de la fuerza laboral activa y al aumento de los costes sanitarios y de rehabilitación."
+    },
+    {
+        "enunciado": "Un agente le hace señas moviendo el brazo alternativamente de arriba abajo, ¿qué debe hacer?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Girar hacia el lado que indica el brazo."
+            },
+            {
+                "id": "b",
+                "texto": "Detenerse inmediatamente a la derecha."
+            },
+            {
+                "id": "c",
+                "texto": "Disminuir la velocidad."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/ptna7xwh.png",
+        "explicacion": "Cuando un agente de tráfico hace señas moviendo el brazo alternativamente de arriba abajo, está indicando que debes **disminuir la velocidad**. Esta señal es una advertencia para que los conductores reduzcan su velocidad y estén preparados para detenerse si es necesario, pero no significa que deban detenerse inmediatamente a menos que se les indique específicamente."
+    },
+    {
+        "enunciado": "¿Por lo general, se puede invadir un cruce de vías yendo marcha atrás al realizar un estacionamiento?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, está prohibido"
+            },
+            {
+                "id": "b",
+                "texto": "Está permitido pero solo en casos puntuales"
+            },
+            {
+                "id": "c",
+                "texto": "Sí, se puede realizar siempre que se quiera pero con precaución"
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "Por lo general, **no está permitido invadir un cruce de vías yendo marcha atrás al realizar un estacionamiento**. Las normas de tráfico establecen que los cruces deben mantenerse libres de obstáculos para no interferir con el flujo normal del tráfico. Invadir un cruce durante la maniobra de estacionamiento puede causar situaciones de peligro o bloqueo, especialmente en intersecciones con semáforos o señales de tráfico."
+    },
+    {
+        "enunciado": "¿Es contrario a la seguridad vial cargar el vehículo con más carga de la que el fabricante indica?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, cada conductor puede llevar la carga que le convenga."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, es ilegal."
+            },
+            {
+                "id": "c",
+                "texto": "Únicamente los camiones podrán llevar más carga que la establecida en su tarjeta I.T.V."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explicacion": "Cargar el vehículo con más carga de la que el fabricante indica es contrario a la seguridad vial y **es ilegal**. Sobrecargar un vehículo puede afectar su manejo y aumentar el riesgo de accidentes. Además, puede causar daños en la infraestructura vial y en el propio vehículo. Las regulaciones de tráfico están diseñadas para garantizar que los vehículos no excedan los límites de peso seguros para su operación y mantenimiento."
+    },
+    {
+        "enunciado": "El permiso de circulación es obligatorio para los remolques y semirremolques...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "cualquiera que sea su MMA."
+            },
+            {
+                "id": "b",
+                "texto": "que tengan una MMA no superior a 750 kg."
+            },
+            {
+                "id": "c",
+                "texto": "que tengan una MMA superior a 750 kg."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explicacion": "El permiso de circulación es obligatorio para los remolques y semirremolques que tengan una **MMA superior a 750 kg**. Los remolques y semirremolques con una MMA inferior a 750 kg no están obligados a poseer permiso de circulación."
+    },
+    {
+        "enunciado": "Si va a realizar un nuevo adelantamiento, ¿está permitido seguir circulando por el carril izquierdo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, cuando no obstaculiza a los vehículos que circulen más rápido por detrás."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, si circula a la máxima velocidad permitida en la vía."
+            },
+            {
+                "id": "c",
+                "texto": "No, tiene que volver obligatoriamente a la derecha."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/autopista.jfif",
+        "explicacion": "Cuando vas a realizar un adelantamiento, **está permitido seguir circulando por el carril izquierdo** siempre y cuando no obstaculices a los vehículos que circulan más rápido por detrás. Una vez que hayas completado el adelantamiento, debes regresar inmediatamente al carril derecho para evitar congestiones innecesarias y situaciones de riesgo. La seguridad vial y la fluidez del tráfico son fundamentales al adelantar."
+    },
+    {
+        "enunciado": "¿Son los antihistamínicos modernos más seguros para la conducción?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, porque provocan menos efectos secundarios"
+            },
+            {
+                "id": "b",
+                "texto": "No, consumir cualquier tipo de antihistamínicos impide conducir"
+            },
+            {
+                "id": "c",
+                "texto": "Sí, porque no provocan efectos secundarios que afecten a la conducción"
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "Los antihistamínicos modernos son considerados más seguros para la conducción porque provocan menos efectos secundarios en comparación con los antihistamínicos de primera generación. Los antihistamínicos de segunda y tercera generación, como la loratadina y la fexofenadina, tienen menos efectos sedantes y, por lo tanto, son más seguros al volante. Sin embargo, es importante tener en cuenta que aunque los efectos secundarios son menos probables, no son inexistentes, y se debe tener precaución, especialmente si se mezclan con alcohol o drogas."
+    },
+    {
+        "enunciado": "¿Qué tipo de población tiene como una de las primeras causas de muerte los accidentes de tráfico?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Población infantil"
+            },
+            {
+                "id": "b",
+                "texto": "Población mayor"
+            },
+            {
+                "id": "c",
+                "texto": "Población joven"
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/i8gd620n.png",
+        "explicacion": "La **población joven** es uno de los grupos en los que los **accidentes de tráfico** representan una de las **primeras causas de muerte**. Esto se debe a factores como la inexperiencia al volante, la tendencia a tomar más riesgos y la mayor probabilidad de participar en comportamientos peligrosos como la conducción bajo los efectos del alcohol o drogas. Las campañas de concienciación y educación vial son clave para reducir estos números y mejorar la seguridad en las carreteras."
+    },
+    {
+        "enunciado": "Un turismo que circula entre la puesta y la salida del sol, ¿debe llevar iluminadas las placas de matrícula?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, tanto la placa delantera como la trasera."
+            },
+            {
+                "id": "b",
+                "texto": "Solo la placa delantera."
+            },
+            {
+                "id": "c",
+                "texto": "Solo la placa trasera."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/2811hd84.png",
+        "explicacion": "Deberemos llevar nuestra placa de matrícula trasera correctamente iluminada, siempre que circulemos por vías públicas entre la puesta y la salida del sol, es decir durante las horas nocturnas. No será necesario llevarla iluminada en horas diurnas."
+    },
+    {
+        "enunciado": "Si un vehículo ha sufrido una reforma de importancia, ¿debe pasar una inspección técnica?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí."
+            },
+            {
+                "id": "b",
+                "texto": "No."
+            },
+            {
+                "id": "c",
+                "texto": "Solo si han transcurrido más de dos años desde la última inspección periódica."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/hv0bs3jq.png",
+        "explicacion": "Si vas a realizar alguna modificación o reforma de importancia en un vehículo, deberás acudir a la ITV para verificar los trabajos realizados y posteriormente solicitar en tráfico un nuevo Permiso de Circulación que recoja los cambios realizados. Las reformas de importancia afectan a características como la identificación del vehículo, la unidad motriz, la transmisión, los ejes, la suspensión, la dirección, los frenos, la carrocería, los dispositivos de alumbrado y señalización, y las uniones entre vehículos tractores y remolques o semirremolques. Por lo tanto, es necesario realizar una inspección técnica para garantizar que la reforma cumple con los requisitos reglamentarios y que el vehículo sigue siendo seguro para circular."
+    },
+    {
+        "enunciado": "Esta señal indica la dirección y sentido que los vehículos...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "tienen prohibido seguir."
+            },
+            {
+                "id": "b",
+                "texto": "tienen la obligación de seguir."
+            },
+            {
+                "id": "c",
+                "texto": "pueden seguir de forma opcional."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/ypzskzx2.png",
+        "explicacion": "La señal R-400B es una señal de tráfico de reglamentación que indica a los conductores que deben seguir la dirección y sentido que muestra la flecha de la señal. En este caso, la señal obliga a los conductores a seguir hacia la izquierda. Es importante seguir estas indicaciones para mantener el orden y la seguridad en las vías."
+    },
+    {
+        "enunciado": "¿En cuál de estos lugares puede estar situado un airbag?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "En el suelo del habitáculo del vehículo"
+            },
+            {
+                "id": "b",
+                "texto": "En los cristales laterales"
+            },
+            {
+                "id": "c",
+                "texto": "En el asiento del acompañante"
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/jolncsv5.png",
+        "explicacion": "Los airbags pueden estar situados en diferentes partes del vehículo para proteger a los ocupantes en caso de colisión. Comúnmente, se encuentran en el volante, el tablero, los asientos y los paneles laterales. Por ejemplo, el airbag del acompañante suele estar ubicado en el tablero frente al asiento del acompañante, y hay airbags laterales que se encuentran en los asientos o en las puertas para proteger en caso de impactos laterales. No es común que los airbags estén situados en el suelo del habitáculo o en elementos transparentes como las ventanas o cristales del vehículo."
+    },
+    {
+        "enunciado": "Este ciclista...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Debería circular lo más cerca posible del eje central de la calzada."
+            },
+            {
+                "id": "b",
+                "texto": "No debería circular por esa vía, pues no tiene arcén."
+            },
+            {
+                "id": "c",
+                "texto": "Circula correctamente."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/e326g88p.png",
+        "explicacion": "Cuando no exista una vía o parte de ella que les esté especialmente destinada, deberán circular por el arcén de la derecha, si es transitable y suficiente, y si no lo es, utilizando la parte imprescindible de la calzada, los conductores de: Ciclos y ciclomotores. Vehículos de tracción animal. Vehículos especiales con MMA hasta 3.500 kg. Vehículos para personas de movilidad reducida. Vehículos en seguimiento de ciclistas.  No obstante, en los descensos prolongados con curvas, cuando las razones de seguridad lo permitan, los conductores de bicicletas podrán abandonar el arcén y circular por la parte derecha de la calzada que necesiten."
+    },
+    {
+        "enunciado": "¿En cuántos km por hora se reducirá la velocidad máxima en autopista para los vehículos de transporte escolar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "En 10 km por hora"
+            },
+            {
+                "id": "b",
+                "texto": "En 20 km por hora"
+            },
+            {
+                "id": "c",
+                "texto": "En 5 km por hora"
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "Para los vehículos que realicen transporte escolar y de menores o que transporten mercancías peligrosas, se reducirá en 10 kilómetros por hora la velocidad máxima fijada en el párrafo a) en función del tipo de vehículo y de la vía por la que circula."
+    },
+    {
+        "enunciado": "¿Se pueden utilizar la luz de corto alcance y la antiniebla trasera a la vez?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Únicamente los ciclomotores podrán hacerlo"
+            },
+            {
+                "id": "b",
+                "texto": "Sí"
+            },
+            {
+                "id": "c",
+                "texto": "No"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/091bjs89.png",
+        "explicacion": "El art. 16 del Reglamento General de Vehículos establece que la luz antiniebla trasera solo podrá encenderse cuando lo estén también las luces de carretera, las de cruce o corto alcance o las antiniebla delanteras."
+    },
+    {
+        "enunciado": "¿Qué vehículos deben tener concertado el Seguro Obligatorio?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Todos los vehículos a motor, excepto los ciclomotores."
+            },
+            {
+                "id": "b",
+                "texto": "Todos los vehículos que circulen por las vías públicas."
+            },
+            {
+                "id": "c",
+                "texto": "Los vehículos a motor y ciclomotores."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explicacion": "Deberán tener contratado el seguro de responsabilidad civil obligatoria, los vehículos de motor (turismos, motocicletas, furgonetas, camiones etc...), ciclomotores, y remolques y semirremolque con M.M.A superior a 750 kilogramos."
+    },
+    {
+        "enunciado": "Las luces adaptativas...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "mejoran la visibilidad en determinadas situaciones, como una curva o una intersección."
+            },
+            {
+                "id": "b",
+                "texto": "adaptan su luminosidad a la visibilidad existente."
+            },
+            {
+                "id": "c",
+                "texto": "emiten más luz que las luces convencionales."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/mt7o6z7q.png",
+        "explicacion": "Las luces adaptativas, también conocidas como luces direccionales o luces adaptables, son una tecnología innovadora que ha llegado a la industria del automóvil como una revolución. Estas luces se diseñaron con un propósito principal: mejorar la seguridad en la carretera al proporcionar una iluminación más efectiva y eficiente durante la conducción nocturna. Su funcionamiento utiliza sensores y tecnología de control para ajustar la dirección, el alcance y la intensidad de las luces delanteras en función de varios factores, como la velocidad del vehículo, el ángulo del volante, las condiciones climáticas y la presencia de otros vehículos en la carretera. Las luces adaptativas mejoran la visibilidad en situaciones específicas, como curvas o intersecciones, lo que contribuye a una conducción más segura."
+    },
+    {
+        "enunciado": "De las siguientes obligaciones, ¿cuál corresponde al conductor de un vehículo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Someter el vehículo a las inspecciones técnicas obligatorias que le correspondan."
+            },
+            {
+                "id": "b",
+                "texto": "Asegurarse que las placas de matrícula no presentan obstáculos que impidan su lectura."
+            },
+            {
+                "id": "c",
+                "texto": "Contratar y mantener en vigor un seguro de responsabilidad civil."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explicacion": "El conductor del vehiculo debera asegurase de que las placas sean visibles en todo momento sin que sean obstaculizadas por otros objetos, sin embargo no es el conductor el que deba contratar y mantener en vigor el seguro del vehiculo, si no el propietario de este, de la misma manera no es el conductor el que tenga la responsabilidad de pasar la Inspección Técnica del Vehículo(ITV) si no su titular."
+    },
+    {
+        "enunciado": "Como norma general, las bicicletas, ¿pueden circular en posición paralela en columna de a dos?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Si."
+            },
+            {
+                "id": "b",
+                "texto": "Solo en autovías y siempre que no invadan la calzada."
+            },
+            {
+                "id": "c",
+                "texto": "No."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/erdvz2m3.png",
+        "explicacion": "Las bicicletas pueden circular en posición paralela en columna de a dos, según la normativa de tráfico en España. El artículo 36 apartado 2 de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial establece que las bicicletas pueden hacerlo, siempre y cuando se orillen todo lo posible al extremo derecho de la vía y se coloquen en hilera en tramos sin visibilidad, como en cambios de rasante o curvas, y cuando formen aglomeraciones de tráfico."
+    },
+    {
+        "enunciado": "¿Está permitido parar y estacionar en un paso inferior?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "Parar sí, pero estacionar, no."
+            },
+            {
+                "id": "c",
+                "texto": "Sólo si está suficientemente iluminado."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/bvcb7k4o.png",
+        "explicacion": "No está permitido parar ni estacionar en un paso inferior. Esta prohibición se establece para garantizar la seguridad y la fluidez del tráfico en estos lugares, que suelen tener visibilidad limitada y espacio restringido."
+    },
+    {
+        "enunciado": "Los airbags son sistemas muy seguros pero…",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Hay que tomar algunas precauciones para evitar efectos adversos."
+            },
+            {
+                "id": "b",
+                "texto": "Son muy peligrosos si el conductor lleva gafas."
+            },
+            {
+                "id": "c",
+                "texto": "Son incompatibles con los cinturones de seguridad."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/jolncsv5.png",
+        "explicacion": "El airbag es un elemento de seguridad pasiva que puede salvar muchas vidas si se utiliza de la manera correcta. Para ello tomaremos algunas precauciones como situarnos a entre 10 y 25 centímetros del volante y no llevar sillitas de bebé en sentido inverso a la marcha en el asiento del acompañante cuando el airbag esté activado."
+    },
+    {
+        "enunciado": "¿Qué nombre recibe el lugar en que se encuentran dos tramos de vía de distinta inclinación?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Resalto."
+            },
+            {
+                "id": "b",
+                "texto": "Rasante."
+            },
+            {
+                "id": "c",
+                "texto": "Cambio de rasante."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "Un cambio de rasante es el lugar en que se encuentran dos tramos de vía de distinta inclinación. Por su parte una rasante es un elemento que mantiene constante su inclinación a lo largo de su longitud, mientras que un resalto es el cambio brusco del perfil longitudinal de la vía con la concavidad hacia arriba."
+    },
+
+
+
+
+    {
+        "enunciado": "¿En qué tipo de carretera ocurre con mayor frecuencia la aparición del sueño en el conductor?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Carreteras de diseño monótono."
+            },
+            {
+                "id": "b",
+                "texto": "En carreteras de gran tráfico."
+            },
+            {
+                "id": "c",
+                "texto": "En carreteras llenas de curvas."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/ozgi4nio.png",
+        "explication": "El sueño en los conductores ocurre con mayor frecuencia en **carreteras de diseño monótono**. Este tipo de carreteras puede inducir a la monotonía debido a la repetición constante del paisaje y la falta de estímulos visuales variados, lo que puede reducir la atención del conductor y aumentar el riesgo de somnolencia. En cambio, las carreteras con mucho tráfico o llenas de curvas requieren una atención constante y activa, lo que puede ayudar a mantener al conductor más alerta."
+    },
+    {
+        "enunciado": "La intención de efectuar una maniobra debe indicarse...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "siempre con el brazo."
+            },
+            {
+                "id": "b",
+                "texto": "con las señales luminosas y, en su defecto, con el brazo."
+            },
+            {
+                "id": "c",
+                "texto": "siempre con las señales luminosas."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/z7zuakxj.png",
+        "explication": "Según el Reglamento de Circulación en España, la intención de efectuar una maniobra debe indicarse **con las señales luminosas** del vehículo y, en caso de que estas no funcionen o no sean visibles, **con el brazo**. Esto asegura que otros conductores y usuarios de la vía sean adecuadamente informados de nuestras acciones, lo que contribuye a la seguridad vial."
+    },
+    {
+        "enunciado": "¿Pueden los agentes de la autoridad inmovilizar un vehículo que no cuenta con el seguro obligatorio?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, en ningún caso"
+            },
+            {
+                "id": "b",
+                "texto": "Sí"
+            },
+            {
+                "id": "c",
+                "texto": "No, únicamente si no cuenta con el permiso de conducción"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/dxwy2akf.png",
+        "explication": "Los agentes de la autoridad pueden inmovilizar un vehículo que no disponga del seguro obligatorio de responsabilidad civil. Esta medida está estipulada por ley y se encuentra en el artículo 104 de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (LSV 6/2015), que permite la inmovilización del vehículo en caso de carecer de seguro obligatorio[^1^][1]."
+    },
+    {
+        "enunciado": "¿Qué puede hacer para evitar los peligros que causa el uso del teléfono móvil durante la conducción?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Responder solo a las llamadas, pero no a los WhastsApp."
+            },
+            {
+                "id": "b",
+                "texto": "Dejar el móvil en el asiento del copiloto y colgar cuando suene una llamada."
+            },
+            {
+                "id": "c",
+                "texto": "Detener el vehículo en un lugar seguro si tiene que usar el teléfono."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explication": "Para evitar los peligros asociados con el uso del teléfono móvil durante la conducción, es esencial adoptar prácticas seguras. La mejor opción es **detener el vehículo en un lugar seguro** si necesita hacer una llamada o responder a una, evitando así causar molestias o obstrucciones a otros usuarios de la vía. Además, si su vehículo cuenta con un sistema de manos libres, es recomendable informar a su interlocutor de que está conduciendo y limitar la conversación para reducir distracciones. Es importante no llamar a alguien si sabe que está conduciendo y no dispone de un sistema de manos libres."
+    },
+    {
+        "enunciado": "¿Cuál es la MMA mínima para que el remolque de un vehículo especial deba estar matriculado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Superior a 2500 kilogramos."
+            },
+            {
+                "id": "b",
+                "texto": "Superior a 750 kilogramos."
+            },
+            {
+                "id": "c",
+                "texto": "Mayor de 1500 kilogramos."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "La **MMA mínima** para que el remolque de un vehículo especial deba estar matriculado es **superior a 750 kilogramos**. Esto se debe a que los remolques con una MMA hasta 750 kg pueden circular sin necesidad de matriculación adicional, llevando la misma placa que el vehículo tractor. Sin embargo, si la MMA del remolque es superior a 750 kg, entonces debe llevar su propia matrícula y cumplir con otros requisitos como tener una póliza de seguro y pasar periódicamente la ITV."
+    },
+    {
+        "enunciado": "El estado de los neumáticos, ¿influye en la distancia de frenado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Solo influye cuando la profundidad del dibujo es inferior a 1,6 milímetros."
+            },
+            {
+                "id": "b",
+                "texto": "No; la distancia de frenado depende solo del estado de los frenos."
+            },
+            {
+                "id": "c",
+                "texto": "Sí; los neumáticos en buen estado se agarran mejor al suelo y el vehículo frena mejor."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/hnf6wx3i.png",
+        "explication": "El estado de los neumáticos tiene una **influencia directa en la distancia de frenado**. Neumáticos desgastados o desinflados reducen la adherencia al asfalto y, por lo tanto, incrementan la distancia necesaria para detener el vehículo al frenar. La presión adecuada de los neumáticos y una banda de rodadura en buen estado son cruciales para mantener una buena adherencia a la carretera y asegurar una distancia de frenado óptima, especialmente en condiciones de lluvia o nieve."
+    },
+    {
+        "enunciado": "¿Es indispensable que ambos vehículos estén en movimiento para realizar un adelantamiento?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, solo es necesario que el adelantado esté en movimiento"
+            },
+            {
+                "id": "b",
+                "texto": "No, solo es necesario que el que adelanta esté en movimiento"
+            },
+            {
+                "id": "c",
+                "texto": "Sí"
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/z7zuakxj.png",
+        "explication": "Para que un adelantamiento se considere como tal y no como el rebasamiento de uno o varios vehículos es condición indispensable que ambos vehículos, y no únicamente el que adelanta se encuentren en movimiento en el momento de realizar la maniobra."
+    },
+    {
+        "enunciado": "¿Puede deslumbrar con la luz de largo alcance a los vehículos que circulan delante por su mismo carril?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, sólo se deslumbra a los que encuentre de frente."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, por el reflejo de la calzada."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, a través de los espejos retrovisores, por lo que debe cambiar a la luz de corto alcance."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/mt7o6z7q.png",
+        "explication": "Es importante utilizar correctamente las luces de largo alcance para evitar deslumbramientos. La luz de largo alcance debe ser sustituida por la de corto alcance tan pronto como se aprecie la posibilidad de producir deslumbramiento a otro usuario de la misma vía o de cualquier otra vía de comunicación. Esto incluye no solo a los vehículos que se encuentran de frente, sino también a aquellos que van delante en el mismo carril, ya que el deslumbramiento puede producirse a través de los espejos retrovisores[^1^][1]."
+    },
+    {
+        "enunciado": "¿Cuándo deben encenderse las luces?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Desde el atardecer hasta el amanecer."
+            },
+            {
+                "id": "b",
+                "texto": "Cuando otros vehículos llevan luces encendidas."
+            },
+            {
+                "id": "c",
+                "texto": "Al viajar por un carril VAO (para vehículos de alta ocupación)."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "",
+        "explication": "La normativa sobre el uso de las luces en los vehículos indica que deben llevarse encendidas **desde el atardecer hasta el amanecer**. Esto se debe a que durante estas horas la visibilidad es reducida y las luces no solo permiten ver mejor la vía, sino que también hacen que el vehículo sea más visible para otros conductores. Además, las luces deben encenderse en túneles, en carriles especiales, reversibles o de sentido contrario, y en condiciones meteorológicas o ambientales de mala visibilidad."
+    },
+    {
+        "enunciado": "¿Qué indica un agente desde un vehículo si emite una luz amarilla intermitente o destellante hacia delante?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Que debe detenerse en el lado derecho delante del vehículo policial"
+            },
+            {
+                "id": "b",
+                "texto": "Que debe extremar la atención porque se aproxima a un peligro"
+            },
+            {
+                "id": "c",
+                "texto": "Que debe detenerse en el lado derecho detrás del vehículo policial"
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/ikudms5j.png",
+        "explication": "Cuando un agente de circulación emite desde su vehículo una luz amarilla intermitente o destellante hacia delante, esta señal indica al conductor del coche que le sigue que debe detener el vehículo en su lado derecho delante del vehículo policial, y seguir sus instrucciones. Esta medida suele tomarse para garantizar la seguridad tanto del agente como de los demás usuarios de la vía, y es importante obedecer inmediatamente para evitar situaciones de riesgo."
+    },
+    {
+        "enunciado": "¿Pueden los ciclistas, ir en el carril de la derecha en una carretera con desnivel y curvas?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, siempre deben utilizar el arcén."
+            },
+            {
+                "id": "b",
+                "texto": "Sí."
+            },
+            {
+                "id": "c",
+                "texto": "Pueden utilizar el carril entero."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/utyzx30e.png",
+        "explication": "Los ciclistas pueden circular por el carril de la derecha en una carretera con desnivel y curvas si el arcén es insuficiente o impracticable, siempre y cuando ocupen el mínimo espacio posible y se mantengan lo más a la derecha posible. Esta normativa busca garantizar la seguridad de los ciclistas sin obstruir el tráfico. Además, es importante que los vehículos mantengan una distancia lateral de seguridad al adelantar a los ciclistas."
+    },
+    {
+        "enunciado": "¿Se puede disminuir el riesgo de sufrir un accidente si se sufre una enfermedad crónica?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No. Una enfermedad crónica incapacita para conducir."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, pero solo si se sufre una enfermedad cardíaca."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, sabiendo cuáles son los efectos secundarios de los medicamentos."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/nx3dv2yq.png",
+        "explication": "Es posible disminuir el riesgo de sufrir un accidente si se padece una enfermedad crónica, siempre y cuando se conozcan bien los síntomas que la enfermedad puede provocar al conducir y se esté al tanto de los efectos secundarios de los medicamentos prescritos. Además, es crucial consultar siempre a un médico antes de conducir para asegurarse de que la enfermedad o el tratamiento no interfieren con la capacidad para manejar un vehículo de forma segura."
+    },
+    {
+        "enunciado": "Los sistemas de seguridad pasiva…",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Son muy caros y de difícil mantenimiento"
+            },
+            {
+                "id": "b",
+                "texto": "Deben utilizarse correctamente porque un mal uso puede suponer un riesgo"
+            },
+            {
+                "id": "c",
+                "texto": "Evitan que se produzcan accidentes"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/jolncsv5.png",
+        "explication": "Los sistemas de seguridad pasiva, como los cinturones de seguridad y los airbags, deben utilizarse correctamente para ser efectivos. Un mal uso de estos sistemas, como llevar el cinturón de seguridad mal ajustado o colocar incorrectamente un asiento infantil, puede aumentar el riesgo de lesiones en caso de accidente. Estos sistemas no evitan que se produzcan accidentes, sino que están diseñados para proteger a los ocupantes y reducir las lesiones una vez que el accidente ha ocurrido."
+    },
+    {
+        "enunciado": "Colocar una silla para niños en el asiento delantero de un vehículo, orientada hacia atrás y con el airbag frontal conectado, ¿es correcto?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, la sillita debe colocarse siempre en los asientos traseros."
+            },
+            {
+                "id": "b",
+                "texto": "No, el airbag frontal debe desconectarse previamente."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, para proteger al niño en caso de impacto frontal."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "//",
+        "explication": "La normativa vigente establece que cuando se coloca una silla para niños en el asiento delantero orientada hacia atrás, es imprescindible desactivar el airbag frontal. Esto se debe a que, en caso de activación, el airbag podría inflarse con mucha fuerza y causar lesiones graves al niño. Los menores de edad de estatura igual o inferior a 135 cm deben utilizar sistemas de retención infantil homologados y adaptados a su talla y peso, y preferentemente deben ir en los asientos traseros."
+    },
+    {
+        "enunciado": "Colocar una silla para niños en el asiento delantero de un vehículo, orientada hacia atrás y con el airbag frontal conectado, ¿es correcto?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, la sillita debe colocarse siempre en los asientos traseros."
+            },
+            {
+                "id": "b",
+                "texto": "No, el airbag frontal debe desconectarse previamente."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, para proteger al niño en caso de impacto frontal."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/u66lkfvw.png",
+        "explication": "La normativa vigente establece que cuando se coloca una silla para niños en el asiento delantero orientada hacia atrás, es imprescindible desactivar el airbag frontal. Esto se debe a que, en caso de activación, el airbag podría inflarse con mucha fuerza y causar lesiones graves al niño. Los menores de edad de estatura igual o inferior a 135 cm deben utilizar sistemas de retención infantil homologados y adaptados a su talla y peso, y preferentemente deben ir en los asientos traseros."
+    },
+    {
+        "enunciado": "¿Qué documentos está obligado a enseñar un conductor si un Agente de la Autoridad se lo requiere?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Solamente la Tarjeta de inspección técnica"
+            },
+            {
+                "id": "b",
+                "texto": "Únicamente el permiso de circulación"
+            },
+            {
+                "id": "c",
+                "texto": "El permiso de circulación y la tarjeta de inspección técnica"
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explication": "Un conductor está obligado a mostrar **el permiso de circulación y la tarjeta de inspección técnica** cuando un Agente de la Autoridad lo requiere. Además, debe presentar su **permiso de conducir**. Estos documentos deben estar siempre en vigor y son necesarios para verificar que el vehículo y el conductor cumplen con la ley y las normas necesarias para circular con seguridad."
+    },
+    {
+        "enunciado": "Te estas acercando a un autobús. El autobús tiene ésta señal en la parte trasera. ¿Qué tendrás que hacer?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Disminuiré la velocidad y, si hiciera falta, detendré el vehículo."
+            },
+            {
+                "id": "b",
+                "texto": "Haré señales luminosas para que el conductor sepa que estoy ahí."
+            },
+            {
+                "id": "c",
+                "texto": "Me detendré detrás del autobús, y arrancaré cuando el autobús arranqué."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/hsz1g78h.png",
+        "explication": "Cuando te acercas a un autobús que lleva la señal de la imagen(V-10), debes **disminuir la velocidad** y, si es necesario, **detener el vehículo**. Esta señal indica que el autobús transporta menores y es un recordatorio para los conductores de actuar con precaución adicional. No es necesario detenerse detrás del autobús a menos que las circunstancias del tráfico lo requieran, y las señales luminosas no son necesarias a menos que formen parte de una maniobra de adelantamiento o para evitar un peligro."
+    },
+    {
+        "enunciado": "Una embarazada, ¿debe llevar puesto el cinturón de seguridad?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, pero sólo en vías interurbanas."
+            },
+            {
+                "id": "b",
+                "texto": "No, no es obligatorio."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, es obligatorio."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explication": "Es obligatorio que las mujeres embarazadas utilicen el cinturón de seguridad en todos los asientos del vehículo y en cualquier tipo de trayecto. Deben seguir unas normas específicas para su colocación: la banda inferior debe ir por debajo del abdomen, ajustándose a la parte ósea de las caderas, y la banda diagonal debe pasar sobre el hombro y alrededor del abdomen sin causar molestias. El uso correcto del cinturón reduce significativamente el riesgo de lesiones tanto para la madre como para el feto en caso de accidente."
+    },
+    {
+        "enunciado": "¿Dónde debemos situar un vehículo que está realizando trabajos de descarga en una vía urbana de doble sentido?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A la derecha de la calzada."
+            },
+            {
+                "id": "b",
+                "texto": "Justo en el centro de la calzada."
+            },
+            {
+                "id": "c",
+                "texto": "A la izquierda de la calzada."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/ah8dx20i.png",
+        "explication": "Cuando se realizan trabajos de descarga en una vía urbana de doble sentido, el vehículo debe situarse a la derecha de la calzada. Esta norma ayuda a mantener el flujo de tráfico y a garantizar la seguridad tanto de los trabajadores como de los demás usuarios de la vía. Es importante realizar la descarga de manera que no se obstruya el tráfico y siguiendo las regulaciones locales sobre horarios y zonas permitidas para dichas operaciones."
+    },
+    {
+        "enunciado": "¿De qué depende la distancia de detención?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "De la velocidad, solamente."
+            },
+            {
+                "id": "b",
+                "texto": "De la velocidad, del tiempo de reacción y de la distancia de frenado."
+            },
+            {
+                "id": "c",
+                "texto": "Del tipo de vehículo, solamente."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/frenado.png",
+        "explication": "La distancia de detención depende de la velocidad a la que se viaja, del tiempo de reacción del conductor, este tiempo se refiere al intervalo que transcurre desde que el conductor detecta el peligro hasta que reacciona activando los frenos, y de la distancia de frenado del vehículo. Estos factores combinados determinan el espacio total necesario para que un vehículo se detenga por completo."
+    },
+    {
+        "enunciado": "¿A qué velocidad máxima puede circular un ciclomotor en esta vía?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Un ciclomotor no puede circular por esta vía."
+            },
+            {
+                "id": "b",
+                "texto": "A 45 km/hora."
+            },
+            {
+                "id": "c",
+                "texto": "A 60 km/hora."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/linea-continua.png",
+        "explication": "Los ciclomotores están limitados por construcción a una velocidad máxima de 45 km/h. Esta limitación es aplicable en todas las vías por las que se permite la circulación de ciclomotores, y su cumplimiento es esencial para garantizar la seguridad vial tanto para los conductores de ciclomotores como para otros usuarios de la carretera[^1^][1][^2^][4]."
+    },
+    {
+        "enunciado": "Ese carril reversible está abierto y usted quiere adelantar a otro vehículo en él. ¿Puede atravesar la doble línea discontinua de la izquierda?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, porque el carril izquierdo está libre."
+            },
+            {
+                "id": "b",
+                "texto": "No."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, porque es una línea discontinua."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/x0fxwtl1.png",
+        "explication": "Estará totalmente prohibido adelantar a otros vehículos cuando circulemos por un carril reversible abierto como el de la imagen, ya que los vehículos que circulan en sentido contrario lo hacen en el carril inmediatamente a la izquierda y chocaríamos de frente. Así pues nunca podremos atravesar las líneas dobles discontinuas que delimitan el carril reversible."
+    },
+    {
+        "enunciado": "¿Qué pieza del vehículo transforma los productos contaminantes en productos casi inocuos?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "El motor."
+            },
+            {
+                "id": "b",
+                "texto": "El ralentí."
+            },
+            {
+                "id": "c",
+                "texto": "El catalizador."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/c5m8w6ms.png",
+        "explication": "El **catalizador** es la pieza del vehículo que transforma los productos contaminantes en productos menos nocivos. Utiliza un proceso químico para convertir gases como el monóxido de carbono, los óxidos de nitrógeno y los hidrocarburos no quemados en dióxido de carbono, nitrógeno y vapor de agua, que son menos perjudiciales para el medio ambiente. Es un componente esencial en los sistemas de escape modernos para cumplir con las normativas ambientales y reducir la contaminación."
+    },
+    {
+        "enunciado": "¿Cuál es el máximo de puntos que se pueden perder de golpe al cometer una única infracción?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "2 puntos"
+            },
+            {
+                "id": "b",
+                "texto": "6 puntos"
+            },
+            {
+                "id": "c",
+                "texto": "4 puntos"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "El máximo de puntos que se pueden perder de golpe al cometer una única infracción es de **6 puntos**. Esto aplica a infracciones consideradas muy graves, como conducir con una tasa de alcohol superior a la permitida, negarse a realizar pruebas de alcohol o drogas, conducción temeraria, entre otras."
+    },
+    {
+        "enunciado": "Una persona en silla de ruedas, ¿debe obedecer las señales de los Agentes y semáforos cuando circula por el arcén de una vía fuera de poblado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Solo obedecerá las señales de los agentes, pero no las de los semáforos."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, siempre."
+            },
+            {
+                "id": "c",
+                "texto": "No, no está obligado porque es un peatón."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "Las personas en silla de ruedas deben obedecer las señales de los Agentes y semáforos cuando circulan por el arcén de una vía fuera de poblado. Al ser consideradas peatones, están sujetas a las mismas normas de circulación, lo que incluye respetar las señales de tráfico para garantizar su seguridad y la de los demás usuarios de la vía."
+    },
+    {
+        "enunciado": "¿En caso de que un tractor agrícola lleve luces de largo alcance cuántas deben ser?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Una situada en el plano central de la parte delantera"
+            },
+            {
+                "id": "b",
+                "texto": "Dos o cuatro"
+            },
+            {
+                "id": "c",
+                "texto": "Tres, dos laterales y una central"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/fu63r8zw.png",
+        "explication": "Los tractores agrícolas pueden llevar **opcionalmente dos o cuatro luces de largo alcance**, de color blanco y situadas en los bordes delanteros del vehículo. Estas luces no son obligatorias, pero si se opta por instalarlas, deben ser dos o cuatro."
+    },
+    {
+        "enunciado": "Circulando de día por un túnel suficientemente iluminado ¿se debe encender algún alumbrado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, el alumbrado de posición y el de cruce."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, solamente el alumbrado de posición."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/l43pe6ml.png",
+        "explication": "Cuando se circula de día por un túnel suficientemente iluminado, es necesario encender el **alumbrado de posición y el de cruce**. Esta medida asegura que el vehículo sea visible para otros conductores y contribuye a la seguridad vial. El Reglamento General de Circulación establece que todo vehículo debe llevar encendido el alumbrado correspondiente al circular por túneles, independientemente de la iluminación del mismo."
+    },
+    {
+        "enunciado": "El lunes a las 9 de la mañana, a partir del lugar dónde se encuentra situada esta señal...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Se puede parar pero no estacionar."
+            },
+            {
+                "id": "b",
+                "texto": "Está prohibido parar y estacionar."
+            },
+            {
+                "id": "c",
+                "texto": "Únicamente se puede estacionar para dejar un paquete."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/bamb65mf.png",
+        "explication": "La señal vertical de prohibición R-308 que vemos en la imagen nos indica que, en el tramo de vía a partir de lo indicado por la flecha, el estacionamiento estará prohibido para todo tipo de vehículos (excepto aquellos en labores de carga y descarga), desde las 9 horas del lunes hasta las 20 horas del viernes. Por lo tanto no prohibirá la parada sino tan solo el estacionamiento."
+    },
+    {
+        "enunciado": "En una intersección, el agente de la imagen, ¿obliga a detenerse a todos los conductores?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A los que ya hayan entrado en la intersección, no."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, incluso a los que ya han entrado a la intersección."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, a los que se acerquen de frente al agente."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/ztptpot5.png",
+        "explication": "Cuando un agente de la circulación levanta el brazo en vertical, indica que todos los conductores que se acerquen deben detenerse antes de entrar en la intersección. Sin embargo, aquellos que ya se encuentren dentro de la intersección no están obligados a detenerse y pueden continuar su camino. Esta medida es para garantizar la seguridad y evitar situaciones de riesgo en la intersección[^1^][3]."
+    },
+    {
+        "enunciado": "¿Cuál es la función de los sistemas de seguridad pasiva de un vehículo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Evitar que se produzca un accidente."
+            },
+            {
+                "id": "b",
+                "texto": "Evitar o reducir la gravedad de los daños en caso de accidente."
+            },
+            {
+                "id": "c",
+                "texto": "La misma que la de los elementos de seguridad activa."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/jolncsv5.png",
+        "explication": "Los sistemas de seguridad pasiva, como los airbags, cinturones de seguridad, estructuras de carrocería reforzadas, zonas de deformación programada y vidrios de seguridad, están diseñados para entrar en acción después de que un accidente ha ocurrido. Su propósito es proteger a los ocupantes del vehículo y minimizar las lesiones, reduciendo así la gravedad de los daños."
+    },
+
+
+
+
+    {
+        "enunciado": "En general, bajo los efectos del alcohol los conductores...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Perciben mejor las luces de los semáforos."
+            },
+            {
+                "id": "b",
+                "texto": "Distinguen mejor las luces de los vehículos."
+            },
+            {
+                "id": "c",
+                "texto": "Perciben peor las señales de tráfico."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/q8q1boea.png",
+        "explicacion": "El alcohol disminuye la capacidad de los conductores para procesar información visual y aumenta el tiempo de reacción ante estímulos. Esto significa que los conductores bajo la influencia del alcohol tendrán más dificultades para percibir y reaccionar a las señales de tráfico, lo que puede resultar en una conducción peligrosa y aumentar el riesgo de accidentes."
+    },
+    {
+        "enunciado": "Si está en posesión del permiso de la clase A1, con un año y medio de antigüedad, y obtiene el permiso B, ¿cuál es la tasa máxima de alcohol permitida conduciendo su turismo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "0,15 gramos por litro de sangre."
+            },
+            {
+                "id": "b",
+                "texto": "0,30 gramos por litro de sangre."
+            },
+            {
+                "id": "c",
+                "texto": "0,50 gramos por litro de sangre."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/q8q1boea.png",
+        "explicacion": "En España, los conductores noveles y profesionales, lo que incluye a aquellos que han obtenido recientemente un permiso de conducción, tienen un límite de alcoholemia más estricto que los conductores con más experiencia. La tasa máxima de alcohol permitida para estos conductores es de 0,3 g/l en sangre. Esto se aplica durante los dos primeros años tras la obtención del primer permiso de conducción, por lo que en este caso, al tener el permiso A1 con un año y medio de antigüedad y haber obtenido el permiso B, la tasa máxima permitida sería la correspondiente a un conductor novel."
+    },
+    {
+        "enunciado": "¿A qué grupo de edad pertenecen la mayor parte de los peatones fallecidos en accidente de tráfico?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "De 17 a 24 años."
+            },
+            {
+                "id": "b",
+                "texto": "De 6 a 14 años."
+            },
+            {
+                "id": "c",
+                "texto": "De 75 años en adelante."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explicacion": "Los datos indican que el grupo de edad con mayor número de peatones fallecidos en accidentes de tráfico es el de las personas de 75 años en adelante. Esto puede deberse a varios factores, como la mayor vulnerabilidad de las personas mayores en caso de accidentes debido a su menor movilidad y resistencia física, así como a la posible disminución de sus capacidades sensoriales y cognitivas, lo que afecta su capacidad para navegar de manera segura por las vías urbanas e interurbanas."
+    },
+    {
+        "enunciado": "Cuando no se puede circular hacia adelante ni cambiar de dirección o sentido de la marcha, ¿se permite circular marcha atrás?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, pero el recorrido hacia atrás no puede ser superior a 15 metros ni se puede invadir un cruce de vías."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, pero solo con el recorrido mínimo indispensable."
+            },
+            {
+                "id": "c",
+                "texto": "No."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explicacion": "Si no podemos seguir circulando hacia adelante ni cambiar de dirección o sentido de la marcha, podemos circular marcha atrás el recorrido mínimo que necesitemos. Distinto es cuando utilizamos la marcha atrás para parar, estacionar o incorporarnos a la circulación; en estos casos podremos recorrer como máximo 15 metros y no podemos invadir un cruce de vías."
+    },
+    {
+        "enunciado": "En una autovía, el límite de velocidad para una motocicleta es de...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "120 km/h, pudiéndose superar en 20 km/h para adelantar."
+            },
+            {
+                "id": "b",
+                "texto": "100 km/h."
+            },
+            {
+                "id": "c",
+                "texto": "120 km/h."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/r1vfm1nq.png",
+        "explicacion": "En las autovías españolas, el límite de velocidad establecido para las motocicletas es de 120 km/h, al igual que para los turismos y autocaravanas de menos de 3.500 kilos. No está permitido superar este límite de velocidad, incluso durante las maniobras de adelantamiento. Es importante respetar los límites de velocidad para garantizar la seguridad en las carreteras y evitar sanciones."
+    },
+    {
+        "enunciado": "Si en un paso a nivel las barreras están en movimiento...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Se puede entrar antes de que las barreras corten el paso."
+            },
+            {
+                "id": "b",
+                "texto": "No se debe entrar, salvo que estén levantándose y haya espacio suficiente."
+            },
+            {
+                "id": "c",
+                "texto": "No se debe entrar."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/q2hh7qbb.png",
+        "explicacion": "La normativa de tráfico establece que no se debe cruzar un paso a nivel si las barreras están en movimiento. Los conductores deben esperar hasta que las barreras estén completamente levantadas y el paso esté libre para cruzar. Esta medida es crucial para la seguridad, ya que intentar cruzar mientras las barreras están en movimiento puede resultar en situaciones peligrosas, incluyendo la posibilidad de colisión con un tren."
+    },
+    {
+        "enunciado": "¿El permiso de conducir Clase A1 autoriza la conducción de motocicletas con sidecar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, si tiene una antigüedad de 2 años."
+            },
+            {
+                "id": "c",
+                "texto": "Sí."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explicacion": "El permiso de conducir de la clase A1 autorizará la conducción de motocicletas con una cilindrada máxima de 125 cm³, una potencia máxima de 11 kilovatios y una relación potencia/peso máxima de 0,1 kW/kg. También autorizará la conducción de triciclos de motor cuya potencia máxima no exceda de 15 kW, incluidas las motocicletas con sidecar."
+    },
+    {
+        "enunciado": "Si un conductor pierde su saldo total de puntos, ¿puede perder la vigencia de su permiso de conducción?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, una vez notificada la resolución de la declaración de pérdida de vigencia."
+            },
+            {
+                "id": "b",
+                "texto": "No, el permiso solo pierde su vigencia cuando caduca."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, la vigencia se pierde automáticamente cuando el saldo es de 0 puntos."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "En España, la vigencia del permiso de conducción depende de que el titular mantenga todos los puntos asignados inicialmente, así como los requisitos necesarios para su otorgamiento. Si un conductor pierde todos sus puntos, ya sea por infracciones o comportamientos indebidos en la vía, la autoridad competente puede declarar la pérdida de vigencia del permiso o licencia de conducción. Esta pérdida de vigencia se efectúa una vez que se notifica al conductor la resolución de la declaración de pérdida de vigencia."
+    },
+    {
+        "enunciado": "¿Cuántas luces de estacionamiento debe tener un vehículo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Tres luces delanteras y tres traseras"
+            },
+            {
+                "id": "b",
+                "texto": "Dos luces delanteras y dos traseras"
+            },
+            {
+                "id": "c",
+                "texto": "Únicamente dos luces traseras"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/97ajiff9.png",
+        "explicacion": "Las luces de estacionamiento son necesarias para señalizar la presencia y la anchura del vehículo cuando está parado o estacionado, especialmente en condiciones de baja visibilidad o durante la noche. Estas luces deben ser blancas en la parte delantera y rojas en la parte trasera, y su uso es obligatorio en situaciones donde la visibilidad es reducida, como en túneles, pasos subterráneos, zonas de sombra o durante condiciones climáticas adversas[^2^][1]."
+    },
+    {
+        "enunciado": "¿Qué se debe hacer si se revienta una rueda del eje trasero?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Girar bruscamente hacia un lado de la calzada no ocupado"
+            },
+            {
+                "id": "b",
+                "texto": "Seguir con nuestro itinerario hasta que encontremos un área de servicio"
+            },
+            {
+                "id": "c",
+                "texto": "Frenar firmemente"
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explicacion": "En caso de reventón de una rueda del eje trasero, es importante mantener la calma y controlar la dirección sujetando el volante con firmeza. Se debe frenar firmemente para reducir la velocidad del vehículo y detenerse de manera segura. Es crucial no realizar maniobras bruscas que puedan desestabilizar el vehículo y aumentar el riesgo de un accidente."
+    },
+    {
+        "enunciado": "¿Se puede utilizar simultáneamente la luz antiniebla trasera con las luces de posición?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, en ningún caso"
+            },
+            {
+                "id": "b",
+                "texto": "Únicamente en autopistas y autovías"
+            },
+            {
+                "id": "c",
+                "texto": "Sí, es obligatorio"
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "",
+        "explicacion": "Es obligatorio utilizar la luz antiniebla trasera de forma simultánea con las luces de posición  y además con la luz de largo alcance, la de corto alcance, la antiniebla delantera o junto con todas ellas a la vez. Esta combinación es necesaria para garantizar que el vehículo sea visible en condiciones de baja visibilidad, como en situaciones de niebla densa, lluvia intensa o nubes de polvo. El uso adecuado de las luces antiniebla contribuye a la seguridad vial y ayuda a prevenir accidentes."
+    },
+    {
+        "enunciado": "¿De qué puede advertir una línea longitudinal discontinua con trazos muy cortos?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "De que se aproxima una línea continua."
+            },
+            {
+                "id": "b",
+                "texto": "De que se aproxima un stop."
+            },
+            {
+                "id": "c",
+                "texto": "De que se aproxima una glorieta."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explicacion": "Una línea longitudinal discontinua con trazos muy cortos es una señalización vial que advierte al conductor de la proximidad de una línea continua. Esto significa que se acerca una zona donde los adelantamientos estarán prohibidos o las condiciones de la vía cambiarán, por lo que es necesario aumentar la precaución y estar atento a las señales de tráfico adicionales que puedan aparecer."
+    },    
+    {
+        "enunciado": "¿En cuál de los siguientes casos estará justificado mover a un accidentado inconsciente?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Si el paciente estorba al paso del resto de vehículos"
+            },
+            {
+                "id": "b",
+                "texto": "Si el paciente está en parada cardiorrespiratoria"
+            },
+            {
+                "id": "c",
+                "texto": "Si el paciente tiene una pequeña hemorragia externa"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explicacion": "Mover a un accidentado inconsciente está justificado en situaciones críticas donde la vida del paciente está en peligro inminente, como en el caso de una parada cardiorrespiratoria. En tal escenario, es vital actuar rápidamente para proporcionar los primeros auxilios necesarios y trasladar al paciente al hospital para recibir atención médica especializada."
+    },
+    {
+        "enunciado": "¿Qué velocidad no se debe sobrepasar en las autopistas dentro de poblado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "90 km por hora"
+            },
+            {
+                "id": "b",
+                "texto": "100 km por hora"
+            },
+            {
+                "id": "c",
+                "texto": "80 km por hora"
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explicacion": "En las autopistas dentro de poblado, la velocidad máxima permitida es de 80 km/h, a menos que exista señalización específica que indique otra velocidad. Es importante respetar este límite para garantizar la seguridad vial y evitar sanciones por exceso de velocidad."
+    },
+    {
+        "enunciado": "¿Cuál es la altura máxima autorizada para que un vehículo pueda circular incluida la carga?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "3 metros"
+            },
+            {
+                "id": "b",
+                "texto": "4,5 metros"
+            },
+            {
+                "id": "c",
+                "texto": "4 metros"
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img":"/img/V-6.png",
+        "explicacion": "La normativa general en España establece que la altura máxima de los vehículos, incluida la carga, no debe superar los 4,00 metros. Existen excepciones que permiten una altura máxima de hasta 4,50 metros para vehículos específicos como los portavehículos y las grúas de asistencia en carretera. Estas medidas están diseñadas para garantizar la seguridad en las vías y evitar daños en infraestructuras como puentes y túneles."
+    },
+    {
+        "enunciado": "¿Cuál es el accidente más frecuente que puede sufrir un ciclista?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "La colisión fronto-lateral con otro vehículo."
+            },
+            {
+                "id": "b",
+                "texto": "Los atropellos."
+            },
+            {
+                "id": "c",
+                "texto": "Las salidas de vía."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/erdvz2m3.png",
+        "explication": "El accidente más frecuente que pueden sufrir los ciclistas en España es la colisión fronto-lateral con otro vehículo. Este tipo de colisión ocurre cuando un vehículo y un ciclista se encuentran en un cruce o intersección y el vehículo impacta al ciclista de manera lateral. Representa el 28,6% de los accidentes reportados y es considerado el más común según la DGT y la ACP. Es importante para los conductores y ciclistas estar especialmente atentos en los cruces y seguir las normas de tráfico para reducir la probabilidad de estos accidentes."
+    },
+    {
+        "enunciado": "¿Cuál de estos NO es un ejemplo de panel de mensaje variable?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Mensajes de advertencia"
+            },
+            {
+                "id": "b",
+                "texto": "Mensajes de guía"
+            },
+            {
+                "id": "c",
+                "texto": "Mensajes preceptivos"
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/hmdabcg2.png",
+        "explication": "Los paneles de mensaje variable se utilizan para informar sobre incidentes, condiciones de la carretera, restricciones de tráfico y mensajes de seguridad vial. Los mensajes de advertencia y preceptivos son ejemplos de lo que pueden mostrar estos paneles. Sin embargo, los 'mensajes de guía' no son típicamente lo que se espera en un PMV, ya que estos paneles están destinados a proporcionar información que puede cambiar según las condiciones del tráfico y no guías o direcciones estáticas."
+    },
+    {
+        "enunciado": "¿En situación normal cuál suele ser el tiempo de reacción medio al volante?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Entre medio segundo y un segundo"
+            },
+            {
+                "id": "b",
+                "texto": "Entre un segundo y dos segundos"
+            },
+            {
+                "id": "c",
+                "texto": "Entre dos segundos y tres segundos"
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "",
+        "explicacion": "El tiempo de reacción al volante es el período que transcurre desde que el conductor percibe un peligro hasta que inicia la maniobra para evitarlo. En condiciones normales, sin factores que lo incrementen como la edad avanzada, la ingesta de bebidas alcohólicas o comidas copiosas, o un habitáculo mal ventilado, el tiempo de reacción medio está entre medio segundo y un segundo. Este tiempo es crucial para la seguridad vial, ya que permite al conductor responder adecuadamente ante situaciones imprevistas en la carretera."
+    },
+    {
+        "enunciado": "¿Cuándo debe apagar el indicador de dirección un vehículo que se desplaza para adelantar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Cuando haya terminado el desplazamiento."
+            },
+            {
+                "id": "b",
+                "texto": "Cuando vuelva al carril derecho."
+            },
+            {
+                "id": "c",
+                "texto": "Cuando haya rebasado al vehículo y antes de volver a la derecha."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/z7zuakxj.png",
+        "explication": "El indicador de dirección debe apagarse cuando el vehículo haya terminado el desplazamiento lateral necesario para adelantar. Esto significa que el conductor debe desactivar el indicador después de haber cambiado de carril y haberse reincorporado de forma segura al carril original, completando así la maniobra de adelantamiento. Mantener el indicador activado después de finalizar el adelantamiento podría causar confusión en otros conductores."
+    },
+    {
+        "enunciado": "Todo conductor de un vehículo que circule detrás de otro está obligado a dejar entre ambos, como mínimo...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Una distancia de 50 metros."
+            },
+            {
+                "id": "b",
+                "texto": "Un espacio libre que le permita detenerse, en caso de frenado brusco, sin colisionar con él."
+            },
+            {
+                "id": "c",
+                "texto": "Una distancia que permita a los vehículos que le sigan adelantarlo con seguridad."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "Todo conductor debe mantener una distancia de seguridad con el vehículo que circula delante. Esta distancia debe ser suficiente para detenerse sin colisionar en caso de frenado brusco. Es fundamental para prevenir accidentes y garantizar la seguridad vial."
+    },
+    {
+        "enunciado": "¿Qué nombre recibe el lugar de la motocicleta dónde el conductor apoya los dos pies?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Estribos"
+            },
+            {
+                "id": "b",
+                "texto": "Reposapies"
+            },
+            {
+                "id": "c",
+                "texto": "Pedales"
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explication": "Las piezas habitualmente metálicas, situadas en ambos lados de la motocicleta a la altura de los pies, donde estos se apoyan, reciben el nombre de estribos. Son fundamentales para la postura y el control del conductor durante la conducción."
+    },
+    {
+        "enunciado": "En una intersección, ¿está permitido realizar un cambio de sentido?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, está prohibido siempre."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, siempre que se pueda efectuar la maniobra en un solo giro."
+            },
+            {
+                "id": "c",
+                "texto": "No, como norma general."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/k2mdkhoh.png",
+        "explicacion": "Como norma general, no está permitido realizar un cambio de sentido en una intersección debido a los riesgos de seguridad que implica. Sin embargo, existen excepciones en las que se permite esta maniobra, como en intersecciones reguladas por semáforos o en aquellas donde no exista señalización que lo prohíba. Es importante estar atento a la señalización vial y seguir las normas de tráfico para realizar cambios de sentido de manera segura y legal."
+    },
+    {
+        "enunciado": "Si se observa un incremento en el consumo de carburante de un vehículo, ¿qué se debe revisar?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "El circuito de escape."
+            },
+            {
+                "id": "b",
+                "texto": "El circuito de encendido y el de alimentación."
+            },
+            {
+                "id": "c",
+                "texto": "El circuito de refrigeración y el de lubricación."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "Un aumento en el consumo de carburante puede ser indicativo de problemas en el circuito de encendido y el de alimentación. Estos incluyen el sistema de inyección de combustible, los filtros de aire y combustible, y las bujías. También es importante revisar la presión y estado de los neumáticos, así como el sistema de escape, ya que estos factores pueden influir en el consumo de carburante."
+    },
+    {
+        "enunciado": "¿Cuánto podrá sobresalir por la parte posterior de un turismo una carga indivisible, como un tubo o un poste?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "El 10% de la longitud del vehículo."
+            },
+            {
+                "id": "b",
+                "texto": "Un tercio de la longitud del vehículo."
+            },
+            {
+                "id": "c",
+                "texto": "El 15% de la longitud del vehículo."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/carga-sobresaliente.png",
+        "explicacion": "Según el Reglamento General de Circulación, la carga indivisible puede sobresalir por la parte posterior de un turismo hasta un 15% de la longitud total del vehículo. Es importante asegurarse de que la carga esté bien sujeta y señalizada adecuadamente para evitar riesgos en la vía y cumplir con la normativa vigente."
+    },
+    {
+        "enunciado": "En vías fuera de poblado que no dispongan de espacio especialmente reservado para ellos, a los peatones, ¿les está permitido circular por su derecha?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No, en ningún caso."
+            },
+            {
+                "id": "b",
+                "texto": "Solo excepcionalmente si existen razones de mayor seguridad."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, los peatones siempre circularán por su derecha en este tipo de vías."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/xv4a104r.png",
+        "explication": "Según la normativa de tráfico en España, los peatones deben circular por la izquierda en vías fuera de poblado. Esta regla permite a los peatones ver de frente los vehículos que se aproximan y así poder reaccionar a tiempo en caso de peligro. No obstante, se permite la circulación por la derecha cuando resulte más seguro debido a las circunstancias particulares de la vía o del tráfico."
+    },
+    {
+        "enunciado": "Padecer una enfermedad o consumir medicamentos, ¿puede afectar a la capacidad de conducir y, por tanto, ser el causante de un accidente?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí; ambos factores pueden afectar a la capacidad para conducir con seguridad."
+            },
+            {
+                "id": "b",
+                "texto": "No; los accidentes dependen siempre de otros factores como el alcohol o las drogas."
+            },
+            {
+                "id": "c",
+                "texto": "No, porque no producen graves alteraciones en el conductor."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/nx3dv2yq.png",
+        "explication": "Tanto las enfermedades como los medicamentos pueden influir negativamente en la capacidad de conducir. Los medicamentos pueden provocar efectos adversos como somnolencia, disminución de la atención y de la capacidad de reacción, mareos, entre otros, que comprometen la seguridad al volante. Es importante consultar con un profesional de la salud sobre los posibles efectos de los medicamentos en la conducción y considerar las condiciones de salud antes de conducir."
+    },
+    {
+        "enunciado": "¿Se pueden colocar los triángulos de preseñalización de peligro a menos de 50 metros de un vehículo averiado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "No, deben estar colocados a un mínimo de 100 metros de distancia."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, ya que son visibles desde esta distancia."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/om6hfdg8.png",
+        "explication": "Los triángulos de preseñalización de peligro deben colocarse a una distancia mínima de 50 metros del vehículo averiado para garantizar que sean visibles para otros conductores y proporcionarles tiempo suficiente para reaccionar. Colocarlos a menos de esta distancia no cumple con las normativas de tráfico en España y podría no ser suficiente para prevenir accidentes o situaciones de peligro."
+    },
+    {
+        "enunciado": "El conductor, ¿está obligado a cuidar que el resto de pasajeros mantengan una posición adecuada en el vehículo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No."
+            },
+            {
+                "id": "b",
+                "texto": "Solo si el vehículo es de transporte colectivo de personas."
+            },
+            {
+                "id": "c",
+                "texto": "Sí."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explication": "El conductor tiene la responsabilidad de asegurarse de que todos los pasajeros mantengan la posición adecuada durante el viaje. Esto incluye el uso correcto del cinturón de seguridad y la correcta colocación de objetos o animales transportados para no comprometer la libertad de movimientos del conductor, el campo necesario de visión y la atención permanente a la conducción. Esta obligación es parte de las normas de tráfico y contribuye a la seguridad de todos los ocupantes del vehículo."
+    },
+    {
+        "enunciado": "Cuando el casco no tiene pantalla de protección, ¿es conveniente utilizar gafas para protegerse los ojos?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No solo es conveniente, sino que además es obligatorio."
+            },
+            {
+                "id": "b",
+                "texto": "Sí."
+            },
+            {
+                "id": "c",
+                "texto": "No."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "Es conveniente y recomendable utilizar gafas de seguridad cuando se conduce una motocicleta con un casco que no tiene pantalla de protección. Las gafas ayudan a proteger los ojos de elementos externos y mejoran la visión del conductor, lo que contribuye a una conducción más segura. Aunque no es un requisito legal obligatorio, es una medida de seguridad importante para proteger los ojos y mantener una buena visibilidad en la carretera."
+    },
+    {
+        "enunciado": "El uso adecuado del casco implica que la correa de sujeción...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "puede llevarse desabrochada en vía urbana."
+            },
+            {
+                "id": "b",
+                "texto": "debe llevarse correctamente abrochada, para que el casco cumpla eficazmente su función."
+            },
+            {
+                "id": "c",
+                "texto": "no debe abrocharse."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "La correa de sujeción del casco debe llevarse correctamente abrochada para que el casco proporcione la protección adecuada en caso de accidente. Según la Ley de Tráfico y Seguridad Vial en España, el uso del casco es obligatorio y debe ajustarse correctamente, lo que incluye tener la correa de sujeción abrochada, para garantizar su efectividad como elemento de seguridad."
+    },
+    
+    
+
+
+    {
+        "enunciado": "Un cuadriciclo ligero, ¿a qué velocidad máxima puede circular fuera de poblado?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "A 70 kilómetros por hora."
+            },
+            {
+                "id": "b",
+                "texto": "A 45 Kilómetros por hora."
+            },
+            {
+                "id": "c",
+                "texto": "A 50 Kilómetros por hora."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/zx1kjfpn.png",
+        "explication": "Según la normativa de tráfico en España, los cuadriciclos ligeros tienen limitada su velocidad máxima a 45 km/h en vías fuera de poblado. Esta limitación está establecida para garantizar la seguridad vial y evitar accidentes, ya que los cuadriciclos no ofrecen la misma protección que los automóviles en caso de colisión."
+    },
+    {
+        "enunciado": "En un control preventivo, ¿pueden los agentes someter a un conductor a una prueba de detección de estupefacientes?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí."
+            },
+            {
+                "id": "b",
+                "texto": "No, este tipo de pruebas sólo se pueden realizar en un centro médico."
+            },
+            {
+                "id": "c",
+                "texto": "No, solamente si está implicado en un accidente."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/rb0g0w8g.png",
+        "explication": "Los agentes de tráfico están autorizados a realizar pruebas de detección de estupefacientes a los conductores durante los controles preventivos en carretera. Esta práctica es legal y está regulada para prevenir la conducción bajo la influencia de sustancias que puedan comprometer la seguridad vial. Las pruebas se realizan mediante dispositivos que detectan la presencia de drogas en la saliva del conductor, y son una herramienta fundamental en la lucha contra la siniestralidad vial."
+    },
+    {
+        "enunciado": "Ante un tratamiento farmacológico, ¿reaccionan todas las personas de igual forma?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, ya que los medicamentos siempre producen los mismos efectos."
+            },
+            {
+                "id": "b",
+                "texto": "No, depende únicamente del estado físico."
+            },
+            {
+                "id": "c",
+                "texto": "No, ya que circunstancias individuales como la fatiga o estar en ayunas pueden variar los efectos."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/nx3dv2yq.png",
+        "explication": "La respuesta a los medicamentos puede variar significativamente entre individuos debido a la variabilidad interindividual. Factores como la genética, el estado de salud general, la interacción con otros medicamentos, la fatiga y el estar en ayunas pueden influir en cómo una persona responde a un tratamiento farmacológico. Por ejemplo, la farmacogenética estudia cómo las diferencias genéticas entre individuos afectan la respuesta a los medicamentos. Por lo tanto, es importante tener en cuenta estas variables al prescribir y administrar medicamentos para asegurar la eficacia y seguridad del tratamiento."
+    },
+    {
+        "enunciado": "Cuando un agente realiza un toque largo de silbato está ordenando...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "La disminución de la velocidad."
+            },
+            {
+                "id": "b",
+                "texto": "La reanudación de la marcha."
+            },
+            {
+                "id": "c",
+                "texto": "La detención de los vehículos."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "Un toque largo de silbato por parte de un agente de tráfico es una señal acústica que ordena a los conductores y usuarios de la vía reanudar la marcha. Esta señal se utiliza después de que los vehículos hayan tenido que detenerse por alguna razón, asegurando que el tráfico pueda fluir de manera segura y eficiente una vez que se ha dado la indicación de continuar."
+    },
+    {
+        "enunciado": "En un accidente, ¿debe detenerse para prestar ayuda?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, siempre hay que detenerse para prestar ayuda."
+            },
+            {
+                "id": "b",
+                "texto": "Sólo cuando esté implicado en el accidente."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, cuando la colaboración sea necesaria y no haya agentes de tráfico."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explication": "En España, la ley exige que cualquier persona que presencie un accidente de tráfico debe detenerse y prestar ayuda si es necesario y si no hay agentes de tráfico en el lugar. Esto incluye auxiliar a las víctimas, solicitar auxilio, colaborar para evitar más peligros o daños, y ayudar a restablecer la seguridad vial. No hacerlo puede ser considerado un delito de omisión de socorro, según el Código Penal y el Reglamento General de Circulación."
+    },
+    {
+        "enunciado": "Utilizar el teléfono móvil mientras conduce hace que el riesgo de accidente sea...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Menor que si no se utiliza."
+            },
+            {
+                "id": "b",
+                "texto": "Mayor que si no se utiliza."
+            },
+            {
+                "id": "c",
+                "texto": "Igual que si no se utiliza."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "",
+        "explication": "El uso del teléfono móvil durante la conducción es una de las principales causas de distracción y ha sido asociado con un aumento en la probabilidad de estar involucrado en un accidente de tráfico. Las estadísticas muestran que las distracciones por el uso del móvil son responsables de aproximadamente el 20% de los fallecimientos en accidentes de tráfico en España, lo que subraya la importancia de evitar su uso mientras se está al volante."
+    },
+    {
+        "enunciado": "¿Está permitido que los vehículos prioritarios en servicio de urgencia utilicen únicamente la señal lumicosa?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, cuando no suponga un peligro para los demás usuarios."
+            },
+            {
+                "id": "b",
+                "texto": "No, tienen que utilizar simultáneamente la señal luminosa y acústica."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, cuando circulen por vía urbana."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/qt8ujoej.png",
+        "explication": "Los vehículos de policía, extinción de incendios, protección civil y salvamento, y de asistencia sanitaria, pública o privada, que circulen en servicio urgente, deberán advertir su presencia utilizando a la vez la señal luminosa y el aparato emisor de señales acústicas especiales. Excepcionalmente, podrán utilizar únicamente la señal luminosa cuando la omisión de las señales acústicas especiales no suponga un peligro para los demás usuarios."
+    },
+    {
+        "enunciado": "En un accidente, ¿debe detenerse para prestar ayuda?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, siempre hay que detenerse para prestar ayuda."
+            },
+            {
+                "id": "b",
+                "texto": "Sólo cuando esté implicado en el accidente."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, cuando la colaboración sea necesaria y no haya agentes de tráfico."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "explication": "En España, la ley exige que cualquier persona que presencie un accidente de tráfico debe detenerse y prestar ayuda si es necesario y si no hay agentes de tráfico en el lugar. Esto incluye auxiliar a las víctimas, solicitar auxilio, colaborar para evitar más peligros o daños, y ayudar a restablecer la seguridad vial. No hacerlo puede ser considerado un delito de omisión de socorro, según el Código Penal y el Reglamento General de Circulación."
+    },
+    {
+        "enunciado": "Las técnicas de conducción eficiente, ¿mejoran la seguridad vial?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No; su único objetivo es reducir el consumo de carburante."
+            },
+            {
+                "id": "b",
+                "texto": "Sí, son técnicas similares a las de la conducción preventiva y la prevención aumenta la seguridad."
+            },
+            {
+                "id": "c",
+                "texto": "No, solo sirven para reducir la contaminación ambiental."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "Las técnicas de conducción eficiente no solo buscan reducir el consumo de carburante y la contaminación ambiental, sino que también mejoran la seguridad vial. Estas técnicas promueven una conducción más tranquila y previsora, lo que disminuye la tensión y el estrés al volante, reduce el riesgo y la gravedad de los accidentes, y mejora el confort de conducción. Al mantener una velocidad adecuada y constante, anticiparse a las situaciones del tráfico y gestionar adecuadamente el espacio, se consigue una conducción más segura."
+    },
+    {
+        "enunciado": "Un niño de 12 años que mide más de 1.50 metros de alto, ¿Qué asientos puede ocupar en un turismo?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "El delantero, con preferencia sobre los asientos traseros."
+            },
+            {
+                "id": "b",
+                "texto": "Tanto el delantero como los traseros."
+            },
+            {
+                "id": "c",
+                "texto": "Sólo los traseros."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/97ajiff9.png",
+        "explication": "De acuerdo con la Dirección General de Tráfico (DGT) de España, los niños que miden más de 1.35 metros de altura pueden sentarse tanto en los asientos delanteros como en los traseros de un turismo. Aunque la normativa permite que los niños de estas características ocupen cualquier asiento, la recomendación general es que los niños viajen en los asientos traseros, ya que suelen ser más seguros en caso de accidente."
+    },
+    {
+        "enunciado": "¿Qué indica esta señal?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Peligro, paso frecuentado por animales en libertad."
+            },
+            {
+                "id": "b",
+                "texto": "Peligro, coto de caza."
+            },
+            {
+                "id": "c",
+                "texto": "Parque nacional."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/lrszzv2s.png",
+        "explication": "La señal P-24 advierte sobre el peligro debido a la posible presencia de animales silvestres en libertad que pueden cruzar la carretera. Es común encontrar esta señal en zonas rurales o áreas naturales donde hay una mayor presencia de fauna salvaje. La precaución es esencial al aproximarse a un área con esta señalización para evitar accidentes."
+    },
+    {
+        "enunciado": "En el entorno del tráfico, constituyen un grupo de riesgo o vulnerable...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "los conductores profesionales."
+            },
+            {
+                "id": "b",
+                "texto": "los ciclistas."
+            },
+            {
+                "id": "c",
+                "texto": "los adultos entre 30 y 45 años."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/erdvz2m3.png",
+        "explication": "Los ciclistas son considerados un grupo vulnerable en el tráfico debido a que están más expuestos y tienen menos protección en comparación con los vehículos motorizados. Esto los hace más susceptibles a lesiones graves o fatales en caso de accidentes. Las normativas de tráfico en España y las recomendaciones de seguridad vial enfatizan la importancia de proteger a los ciclistas y otros grupos vulnerables mediante el respeto a las distancias de seguridad, el uso de elementos reflectantes y la conducción prudente."
+    },
+    {
+        "enunciado": "Conducir con sueño, hace que...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Aumente el tiempo que se tarda en reaccionar."
+            },
+            {
+                "id": "b",
+                "texto": "Los movimientos sean más rápidos y automatizados."
+            },
+            {
+                "id": "c",
+                "texto": "Sea más difícil sufrir una distracción."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explication": "La somnolencia al volante puede incrementar significativamente el tiempo de reacción ante los estímulos del tráfico, lo que aumenta el riesgo de accidentes. Es uno de los factores de riesgo más importantes en la conducción y puede tener consecuencias graves, como colisiones por no reaccionar a tiempo. Por ello, es crucial evitar conducir cuando se siente sueño y tomar descansos adecuados para garantizar la seguridad en la carretera."
+    },
+    {
+        "enunciado": "En caso de accidente de tráfico, no se debe mover a un accidentado, excepto:",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Si existe riesgo de lesión medular."
+            },
+            {
+                "id": "b",
+                "texto": "Si lo pide el accidentado de manera insistente."
+            },
+            {
+                "id": "c",
+                "texto": "Si hay un claro riesgo de incendio del vehículo."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/i8gd620n.png",
+        "explication": "En caso de accidente de tráfico, la normativa recomienda no mover a los accidentados para evitar agravar posibles lesiones. No obstante, si hay un riesgo inminente, como un posible incendio del vehículo, se debe priorizar la vida del accidentado y moverlo a un lugar seguro. Esta excepción se contempla para situaciones donde el peligro de no actuar supera el riesgo de causar daños adicionales al accidentado."
+    },
+    {
+        "enunciado": "¿Puede emplear en su vehículo luces adaptativas?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí."
+            },
+            {
+                "id": "b",
+                "texto": "No, están prohibidas."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, son obligatorias."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/qhyfw6sq.png",
+        "explication": "Las luces adaptativas son permitidas en España y forman parte de los sistemas de iluminación avanzados que se pueden emplear en los vehículos. Estas luces mejoran la visibilidad y la seguridad al adaptar el patrón de luz a las condiciones de la carretera y el tráfico, sin ser obligatorias. Su uso está regulado para asegurar que cumplen con los estándares de seguridad y no causan deslumbramiento a otros conductores."
+    },
+    {
+        "enunciado": "¿Qué sistema de seguridad pasiva tiene como función absorber gradualmente la energía que el cuerpo acumula por el movimiento?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "El airbag."
+            },
+            {
+                "id": "b",
+                "texto": "El ABS."
+            },
+            {
+                "id": "c",
+                "texto": "El cinturón de seguridad."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "explication": "La función de los airbags es proteger a los ocupantes del vehículo en caso de una colisión123. Los airbags se activan mediante sensores que detectan el accidente y generan una explosión controlada que infla las bolsas de aire3. Los airbags absorben parte de la energía cinética del cuerpo, frenando suavemente el movimiento de los pasajeros y evitando un impacto contra elementos interiores del coche."
+    },
+    {
+        "enunciado": "En caso de ser golpeado por detrás por otro vehículo, ¿qué lesión se puede evitar, o reducir sus consecuencias, si se llevan regulados correctamente los reposacabezas?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "La fascitis plantar."
+            },
+            {
+                "id": "b",
+                "texto": "El esguince cervical."
+            },
+            {
+                "id": "c",
+                "texto": "La esclerosis lateral."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "explication": "El esguince cervical, también conocido como latigazo cervical, es una lesión que puede producirse en colisiones por alcance, cuando el vehículo es golpeado por detrás. Los reposacabezas, al estar correctamente ajustados, detienen el movimiento de la cabeza y reducen la hiperflexión y la hiperextensión del cuello, minimizando así el riesgo de sufrir este tipo de lesiones. Es importante asegurarse de que los reposacabezas estén a la altura adecuada y lo más cerca posible de la parte posterior de la cabeza para que sean efectivos en su función de protección."
+    },
+    {
+        "enunciado": "Esta señal, la R-204, ¿qué indica?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Prohíbe el paso a los vehículos con más anchura de la indicada, incluida la carga."
+            },
+            {
+                "id": "b",
+                "texto": "Obliga a mantener la separación mínima que indica entre vehículos."
+            },
+            {
+                "id": "c",
+                "texto": "Restringe el paso a los vehículos con más de la indicada."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/nex767bf.png",
+        "explication": "La señal R-204 es una señal de tráfico que prohíbe el paso a los vehículos cuya anchura máxima, incluida la carga, supere la indicada en la señal. Se utiliza para proteger vías que no están diseñadas para soportar ciertas anchuras, ayudando a prevenir daños en la infraestructura y mantener la seguridad en la carretera."
+    },
+    {
+        "enunciado": "Son remolques ligeros aquellos cuya Masa Máxima Autorizada (M.M.A)...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Es igual a 750 kg."
+            },
+            {
+                "id": "b",
+                "texto": "No supera los 750 kg."
+            },
+            {
+                "id": "c",
+                "texto": "Supera los 750 kg."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/6qdejncn.png",
+        "explication": "Los remolques ligeros en España son aquellos cuya Masa Máxima Autorizada no excede los 750 kilogramos. Estos remolques son más sencillos en términos de regulación, ya que no necesitan permiso de circulación ni matrícula propia, simplificando así su uso y gestión."
+    },
+    {
+        "enunciado": "El viento por la derecha en los adelantamientos a vehículos grandes, ¿por qué es peligroso?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Porque puedo perder el control del vehículo y salirme de la calzada."
+            },
+            {
+                "id": "b",
+                "texto": "Porque no me deja ver la calzada."
+            },
+            {
+                "id": "c",
+                "texto": "Porque frena mi vehículo y no me deja adelantar."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/4yrbczic.png",
+        "explication": "El viento lateral procedente de la derecha es especialmente peligroso durante los adelantamientos a vehículos grandes, ya que puede provocar una desviación del vehículo hacia la izquierda, dificultando el control y la estabilidad. Este fenómeno puede resultar en una pérdida de control del vehículo y provocar accidentes graves. Es importante sujetar firmemente el volante y reducir la velocidad para manejar esta situación y minimizar los riesgos."
+    },
+    {
+        "enunciado": "El conductor del vehículo que utiliza el carril adicional...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Circulará, como máximo, a 100 km/h."
+            },
+            {
+                "id": "b",
+                "texto": "Deberá abandonar la vía en cuanto le sea posible."
+            },
+            {
+                "id": "c",
+                "texto": "Llevará encendida, al menos, la luz de cruce."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/i6xmkgyl.png",
+        "explication": "En España, los carriles adicionales circunstanciales de circulación están diseñados para mejorar el flujo de tráfico durante períodos de alta densidad vehicular. Los conductores que utilizan estos carriles deben circular, como máximo, a 100 km/h para garantizar un tráfico fluido y seguro. Estos carriles son una medida temporal y su uso está regulado por la Dirección General de Tráfico (DGT)."
+    },
+    {
+        "enunciado": "Los límites de velocidad establecidos en las vías tienen como objetivo...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Garantizar la seguridad únicamente."
+            },
+            {
+                "id": "b",
+                "texto": "Garantizar la seguridad y la fluidez."
+            },
+            {
+                "id": "c",
+                "texto": "Adaptar la conducción a las nuevas tecnologías de los vehículos y el medio ambiente."
+            }
+        ],
+        "respuesta_correcta": "b",
+        "img": "/img/Max-Velocidad.png",
+        "explication": "Los límites de velocidad en las carreteras son establecidos con el objetivo principal de garantizar la seguridad vial y la fluidez del tráfico. Estos límites son una medida preventiva que busca disminuir el número de accidentes de tránsito y proteger la vida de los conductores, pasajeros y peatones, así como mejorar la convivencia entre los diferentes usuarios de la vía y avanzar hacia un nuevo modelo de ciudad más seguro y eficiente en el tránsito."
+    },
+    {
+        "enunciado": "¿Es peligroso no abrocharse el cinturón de seguridad?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sólo es peligroso no abrocharse el cinturón en los asientos delanteros."
+            },
+            {
+                "id": "b",
+                "texto": "En tráfico urbano no, debido las bajas velocidades a las que se circula."
+            },
+            {
+                "id": "c",
+                "texto": "Sí, porque incluso en un choque a baja velocidad no siempre es posible mantenerse sujeto al asiento."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/aucb6zto.png",
+        "explication": "No utilizar el cinturón de seguridad es peligroso en cualquier circunstancia. Este dispositivo es esencial para retener al ocupante en su asiento y evitar que sea proyectado hacia adelante en caso de colisión. Aunque el vehículo circule a baja velocidad, como en zonas urbanas, el riesgo de lesiones graves o mortales sigue siendo significativo si no se usa el cinturón. Las estadísticas muestran que un gran número de accidentes con víctimas ocurren a velocidades urbanas y que el uso adecuado del cinturón de seguridad puede salvar vidas."
+    },
+    {
+        "enunciado": "Los accidentes de tráfico...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "No tienen una gran importancia."
+            },
+            {
+                "id": "b",
+                "texto": "Son la causa principal de muerte a nivel mundial."
+            },
+            {
+                "id": "c",
+                "texto": "Son una de las principales causas de mortalidad en nuestro país."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/i8gd620n.png",
+        "explication": "Los accidentes de tráfico son una de las principales causas de mortalidad en España, especialmente entre los jóvenes de 15 a 29 años. A nivel mundial, la Organización Mundial de la Salud estima que los accidentes de tráfico son la octava causa principal de mortalidad, lo que subraya la importancia de la seguridad vial y la necesidad de medidas preventivas para reducir el número de accidentes y salvar vidas."
+    },
+    {
+        "enunciado": "¿Qué precauciones debe tomar conduciendo una motocicleta si empieza a llover intensamente?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Reducir la velocidad, deteniéndose si fuese necesario."
+            },
+            {
+                "id": "b",
+                "texto": "Aumentar la velocidad para llegar cuanto antes a su destino."
+            },
+            {
+                "id": "c",
+                "texto": "Mantenerse muy cerca de los vehículos de grandes dimensiones para que le protejan de la lluvia."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/pnob12pm.png",
+        "explication": "Conducir una motocicleta bajo una lluvia intensa requiere una precaución extrema. La visibilidad se reduce y la carretera se vuelve más resbaladiza, lo que aumenta el riesgo de accidentes. Reducir la velocidad y detenerse si es necesario permite al conductor tener más tiempo para reaccionar ante cualquier situación imprevista. Además, es importante evitar frenar bruscamente y mantener una distancia segura con respecto a otros vehículos para prevenir colisiones."
+    },
+    {
+        "enunciado": "En una zona de obras en la que se ha producido un estrechamiento de la calzada, ¿qué vehículo tendrá preferencia si no hay señal que la regule?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "El que haya entrado primero."
+            },
+            {
+                "id": "b",
+                "texto": "El que no tenga que cambiar de carril para entrar en el estrechamiento."
+            },
+            {
+                "id": "c",
+                "texto": "El que se encuentre el estrechamiento a su derecha."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/rt21io1d.png",
+        "explication": "En situaciones donde no existe señalización específica en un estrechamiento de la calzada, como puede ser una zona de obras, la normativa de tráfico establece que debe tener preferencia el vehículo que haya entrado primero al estrechamiento. Esta regla ayuda a evitar confusiones y conflictos en puntos donde la calzada se reduce y no puede ser compartida por dos vehículos al mismo tiempo. En caso de duda o si ambos vehículos llegan simultáneamente, se considerará la dificultad para realizar maniobras marcha atrás, dando preferencia al vehículo que tenga más complicaciones para ello."
+    },
+    {
+        "enunciado": "¿Cuándo se deben cumplir las órdenes de los agentes de tráfico?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Siempre hay que cumplirlas."
+            },
+            {
+                "id": "b",
+                "texto": "Sólo deben cumplirse en las intersecciones."
+            },
+            {
+                "id": "c",
+                "texto": "Solo deben cumplirse cuando hay una situación de riesgo."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/ptna7xwh.png",
+        "explication": "Las órdenes de los agentes de tráfico deben ser cumplidas por todos los conductores y usuarios de la vía pública en el momento en que se produzcan, ya que los agentes de tráfico tienen la autoridad para dirigir y regular el tráfico y garantizar la seguridad en la circulación. Es importante recordar que las indicaciones de los agentes de tráfico prevalecen sobre cualquier señal o norma de tráfico y son de obligado cumplimiento inmediato."
+    },
+    {
+        "enunciado": "¿Hay que prestar una atención especial a los peatones?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Sí, porque son especialmente vulnerables a los peligros del tráfico."
+            },
+            {
+                "id": "b",
+                "texto": "No, porque no representan ningún peligro."
+            },
+            {
+                "id": "c",
+                "texto": "Solo en vías urbanas."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "",
+        "explication": "Es necesario prestar una atención especial a los peatones ya que son un grupo especialmente vulnerable en el tráfico. Los conductores deben ser conscientes de la presencia de peatones y actuar con precaución, ya que estos no cuentan con la protección de un vehículo y son más susceptibles a lesiones en caso de accidente. Las normativas de tráfico en España enfatizan la importancia de proteger a los peatones, asegurando que las calles sean espacios seguros de convivencia para todos."
+    },
+    {
+        "enunciado": "¿Qué pueden hacer para evitar el atropello a ciclistas?",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Evitar las señales luminosas para no deslumbrarles."
+            },
+            {
+                "id": "b",
+                "texto": "Avisarles de la maniobra con señales acústicas."
+            },
+            {
+                "id": "c",
+                "texto": "Evitar las señales acústicas cerca de ellos."
+            }
+        ],
+        "respuesta_correcta": "c",
+        "img": "/img/e326g88p.png",
+        "explication": "Para evitar atropellos a ciclistas, es crucial evitar el uso de señales acústicas cerca de ellos, ya que esto puede causar distracciones o reacciones inesperadas que aumenten el riesgo de accidentes. Además, es importante mantener una distancia de seguridad adecuada al adelantar, reducir la velocidad y asegurarse de tener condiciones óptimas de visibilidad. Estas prácticas no solo son recomendaciones de seguridad vial, sino que también están respaldadas por la normativa de tráfico para proteger a los ciclistas, quienes son uno de los grupos más vulnerables en la carretera."
+    },
+    {
+        "enunciado": "Estas señales, sobre una carretera convencional, indican salida inmediata hacia...",
+        "respuestas": [
+            {
+                "id": "a",
+                "texto": "Otra carretera convencional."
+            },
+            {
+                "id": "b",
+                "texto": "Una autopista."
+            },
+            {
+                "id": "c",
+                "texto": "Una autovía."
+            }
+        ],
+        "respuesta_correcta": "a",
+        "img": "/img/ek6q15bz.png",
+        "explication": "La señal S-350 se utiliza en carreteras convencionales para indicar que hay una salida inmediata hacia otra carretera convencional. Esta señal informa al conductor sobre la dirección que debe tomar para seguir su ruta deseada, asegurando así una conducción segura y eficiente."
     }
+    
+    
 ]
 
 

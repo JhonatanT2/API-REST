@@ -59,7 +59,7 @@ POST http://localhost:1234/test
 Content-Type: application/json
 
 {
-    "description": "Test de prueba 4",
+    "description": "Test de prueba 8",
     "tipo": "B"
 }
 
@@ -83,4 +83,34 @@ Content-Type:  application/json
 {
     "email": "jhonatanstartidea@gmail.com",
     "password": "123456"
+}
+
+### Crear registro puntuacion
+POST http://localhost:1234/results
+Content-Type:  application/json
+
+{
+    "userId": "f61f87a7-0d0b-48f3-97eb-64dcc39a355b",
+    "testId": "f4786b6a-008b-4da0-93d2-523fee64faed",
+    "score": 27
+}
+
+### Actualizar puntuacion test_result
+POST http://localhost:1234/results/updateTestResult
+Content-Type:  application/json
+
+{
+    "userId": "f61f87a7-0d0b-48f3-97eb-64dcc39a355b",
+    "testId": "4e9c4c95-1347-4fb8-99d6-6bfd84958621",
+    "score": 18
+}
+
+
+### Devolver results
+GET http://localhost:1234/results/usertest
+Content-Type:  application/json
+
+{
+    "userId": "f61f87a7-0d0b-48f3-97eb-64dcc39a355b",
+    "testId": "a3dc7368-20fe-4adf-8085-ce8831e718f1"
 }
